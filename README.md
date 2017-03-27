@@ -1,9 +1,10 @@
 # Progressive Hack Night
 
 Website for [Progressive Hack Night](http://proghacknight.org/).
-* Forked from [Chi Hack Night](http://chihacknight.org)
 
-[RSVP](https://www.eventbrite.com/e/community-hack-night-at-thoughtworks-tickets-32507133712)
+*Forked from [Chi Hack Night](http://chihacknight.org)*
+
+### [RSVP](https://www.eventbrite.com/e/community-hack-night-at-thoughtworks-tickets-32507133712)
 
 
 ## Running locally
