@@ -1,10 +1,10 @@
-# Chi Hack Night
+# Progressive Hack Night
 
-Website for [Chi Hack Night](http://chihacknight.org/).
+Website for [Progressive Hack Night](http://proghacknight.org/).
+* Forked from [Chi Hack Night](http://chihacknight.org)
 
-**Chi Hack Night** is Chicago's weekly event to build, share & learn about civic tech.
+[RSVP](https://www.eventbrite.com/e/community-hack-night-at-thoughtworks-tickets-32507133712)
 
-Hosted by [DataMade](https://datamade.us/) on their [static Jekyll server](https://github.com/datamade/jekyll-hook).
 
 ## Running locally
 
@@ -12,7 +12,7 @@ This website is built using Jekyll. You will need to [install it first](http://j
 
 ```console
 git clone https://github.com/chihacknight/chihacknight.org.git
-cd chihacknight.org
+cd proghacknight.org
 jekyll serve -w
 ```
 
