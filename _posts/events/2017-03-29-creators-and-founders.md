@@ -1,7 +1,7 @@
 ---
 layout: satellite_event
 categories:
-  - satellite
+  - chihacknight
 links:
 title: "Women in Civic Tech: Creators & Founders"
 description: "Wednesday, March 29th we will convene at the Homan Square Community Center and hear from panel of civic tech creators and founders to hear about their personal narratives. The panel will feature Allyson Scrutchens of Forward Planning and Dima Elissa of VisMed-3D."
@@ -16,7 +16,7 @@ sponsor: <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 rsvp: https://www.eventbrite.com/e/women-in-civic-tech-creators-founders-tickets-32680497247
 address_name:  Homan Square Community Center
 address_street: 3517 West Arthington Street
-address_city: Chicago, IL 60624 
+address_city: Chicago, IL 60624
 asl_provided: false
 published: true
 ---
@@ -41,7 +41,7 @@ Members of the Prog Hacknight community will be on site to run several of our po
 
 **Civic Tech 101**
 
-Civic Tech 101 will be a short 10 min talk about the basics of civic tech and some examples about how we’ve applied our skills to create impact in our community. 
+Civic Tech 101 will be a short 10 min talk about the basics of civic tech and some examples about how we’ve applied our skills to create impact in our community.
 
 **Manatee Tank**
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories:
-  - events 
+  - chihacknight 
 links:
 title: "Cook County Board President Toni Preckwinkle"
 description: "This week, we are honored to welcome Cook County Board President Toni Preckwinkle to Prog Hacknight. As a dedicated community leader for over two decades, President Preckwinkle will talk about strategies for collaborative approaches that can drive positive change in Cook County."

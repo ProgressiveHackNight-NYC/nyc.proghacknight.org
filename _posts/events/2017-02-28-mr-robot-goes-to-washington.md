@@ -1,7 +1,7 @@
 ---
 layout: event
-categories: 
-  - events
+categories:
+  - chihacknight
 links:
 title: "Mr. Robot Goes to Washington"
 description: "This week at Prog Hacknight, we’ll be looking at data from a less rosy perspective: privacy and abusive collection. What are the risks of collecting too much data, and what can we as consumers of technology do to protect ourselves? Ari Scharg, Partner at Edelson PC will give an overview of the consumer privacy issues facing the tech world, and talk about how privacy laws affect tech firms and startups."
@@ -29,6 +29,6 @@ This week at Prog Hacknight, we’ll be looking at data from a less rosy perspec
 
 **Leadership Council #33**
 
-We will have our **33rd** [Prog Hacknight Leadership Council](http://chihacknight.org/leadership-council.html) at **8pm** after the group breakouts get started. This meeting is for discussing new ideas and ways to make the hack night better. Anyone is welcome to join! 
+We will have our **33rd** [Prog Hacknight Leadership Council](http://chihacknight.org/leadership-council.html) at **8pm** after the group breakouts get started. This meeting is for discussing new ideas and ways to make the hack night better. Anyone is welcome to join!
 
 If you'd like to bring up a topic, add it to the [Leadership Council agenda](https://docs.google.com/document/d/1wlUdZiboz9JKsp-vy_8HrGRU1QgNjGbaE3UMXPhiTaY/edit#).

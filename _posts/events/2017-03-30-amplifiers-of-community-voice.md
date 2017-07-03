@@ -1,7 +1,7 @@
 ---
 layout: satellite_event
 categories:
-  - satellite
+  - chihacknight
 links:
 title: "Women in Civic Tech: Amplifiers of Community Voice"
 description: "Thursday, March 30th we will convene at the DuSable Museum of African-American History and hear from a panel of amplifiers of community voice featuring Andrea Hart of City Bureau, Aviva Rosman of Ballot Ready and Tiana Epps-Johnson of Center for Tech and Civic Life."
@@ -17,7 +17,7 @@ sponsor: <a href='http://smartchicagocollaborative.org/'>Smart Chicago</a>
 rsvp: https://www.eventbrite.com/e/women-in-civic-tech-amplifiers-of-community-voice-tickets-32680563445
 address_name:  DuSable Museum of African-American History
 address_street: 740 East 56th Place
-address_city: Chicago, IL 60637 
+address_city: Chicago, IL 60637
 asl_provided: false
 published: true
 ---
@@ -43,7 +43,7 @@ Members of the Prog Hacknight community will be on site to run several of our po
 
 **Civic Tech 101**
 
-Civic Tech 101 will be a short 10 min talk about the basics of civic tech and some examples about how we’ve applied our skills to create impact in our community. 
+Civic Tech 101 will be a short 10 min talk about the basics of civic tech and some examples about how we’ve applied our skills to create impact in our community.
 
 **Manatee Tank**
 

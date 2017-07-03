@@ -6,7 +6,7 @@ description: Every week after the presentation, we break out into topic-specific
 
 <h1><i class='fa fa-group'></i> Breakout groups</h1>
 
-<p>Every week after the presentation, we break out into topic-specific working and learning groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: <a href='#working'>working</a> groups and <a href='#learning'>learning</a> groups.</p>
+<p>Every hacknight after the presentation, we break out into topic-specific working and discussion groups led by regular facilitators to guide conversations, answer questions, and build teams for civic apps. The groups are split into two types: <a href='#working'>working</a> groups and <a href='#discussion'>discussion</a> groups.</p>
 
 <p>Want to start your own breakout group? Just announce it at the next hack night and people will vote with their feet!</p>
 
@@ -17,17 +17,17 @@ description: Every week after the presentation, we break out into topic-specific
   <div class="well">
     <ol>
       <li>Create a GitHub account if you don't already have one: <a href='https://github.com/join' target='_blank'>https://github.com/join</a></li>
-      <li>Open a new GitHub Issue in this repository: <a href='https://github.com/ProgressiveHackNight/breakout-groups/issues/new' target='_blank'>https://github.com/chihacknight/join-a-breakout/issues/new</a></li>
+      <li>Open a new GitHub Issue in this repository: <a href='https://github.com/ProgressiveHackNight/breakout-groups/issues/new' target='_blank'>https://github.com/ProgressiveHackNight/breakout-groups/issues/new</a></li>
       <li>Set the title of your issue to the name of your breakout, and fill out the description template in the body. We will add the appropriate labels to it.</li>
     </ol>
   </div>
 </div>
 <br /><br />
 
-<h2 id='learning'>Learning Groups</h2>
-<p>New to Prog Hacknight? Interested in learning what it's all about? Or learning how to program or work with data? Join a learning group!</p>
+<h2 id='discussion'>Discussion Groups</h2>
+<p>New to Prog Hacknight? Interested in learning what it's all about? Discuss progressive issues or brainstorm on an app idea? Join a discussion group!</p>
 
-<table id='learning-groups' class='table table-bordered'>
+<table id='discussion-groups' class='table table-bordered'>
   <tbody>
   </tbody>
 </table>
@@ -45,15 +45,15 @@ description: Every week after the presentation, we break out into topic-specific
 <script>
 
   //grab issue list from GitHub
-  $.when( $.getJSON( "https://api.github.com/repos/chihacknight/breakout-groups/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
+  $.when( $.getJSON( "https://api.github.com/repos/ProgressiveHackNight/breakout-groups/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
 
     $.each(data, function(i, json){
       json['opened-on'] = moment(json['created_at']).fromNow();
       var labels = '';
-      var is_learning_group = false;
+      var is_discussion_group = false;
       $.each(json['labels'], function(i, label){
-        if (label['name'] == 'Learning group')
-          is_learning_group = true;
+        if (label['name'] == 'Discussion group')
+          is_discussion_group = true;
 
         labels += "<span class='label label-info' style='background-color:#" + label['color'] + "'>" + label['name'] + "</span> ";
         });
@@ -67,7 +67,7 @@ description: Every week after the presentation, we break out into topic-specific
       </tr>\
       ";
 
-      if (is_learning_group)
+      if (is_discussion_group)
         $("#learning-groups tbody").append(html);
       else
         $("#working-groups tbody").append(html);
@@ -93,7 +93,7 @@ description: Every week after the presentation, we break out into topic-specific
 
 <button class="btn btn-danger" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
   <i class='fa fa-question-circle'></i> I made a group but don't see it listed!
-  
+
 </button>
 <div class="collapse" id="collapse2">
   <div class="well">
