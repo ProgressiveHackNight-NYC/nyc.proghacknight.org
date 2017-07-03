@@ -3,7 +3,7 @@ layout: blog
 categories: 
   - blog
 title: "Presenting the Women In Tech Speaker Series"
-description: "Smart Chicago Collaborative and Chi Hack Night have teamed up to create a speaking series in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago."
+description: "Smart Chicago Collaborative and Prog Hacknight have teamed up to create a speaking series in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago."
 date: 2017-03-07
 image: /images/blog/women-in-tech-speaker-series.jpg
 author: Kyla Williams
@@ -13,26 +13,26 @@ author_bio: "Kyla Williams is the Interim Executive Director of the Smart Chicag
 author2: Derek Eder
 author2_url: https://twitter.com/derekeder
 author2_image: /images/people/derek_eder.jpg
-author2_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Chi Hack Night."
+author2_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Prog Hacknight."
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/women-in-tech-speaker-series.jpg" alt="Smart Chicago Collaboarative and Chi Hack Night present: the Women In Tech Speaker Series" class="img-thumbnail" />
+<p class="text-center"><img src="/images/blog/women-in-tech-speaker-series.jpg" alt="Smart Chicago Collaboarative and Prog Hacknight present: the Women In Tech Speaker Series" class="img-thumbnail" />
 
 <br /><small>
-    <em>Smart Chicago Collaboarative and Chi Hack Night present: the Women In Tech Speaker Series</em>
+    <em>Smart Chicago Collaboarative and Prog Hacknight present: the Women In Tech Speaker Series</em>
 </small>
 </p>
 
-[Smart Chicago Collaborative](http://smartchicagocollaborative.org/) and Chi Hack Night have teamed up to create a speaking series in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
+[Smart Chicago Collaborative](http://smartchicagocollaborative.org/) and Prog Hacknight have teamed up to create a speaking series in celebration of Women’s History Month in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
 
 Too often in the tech space we hear about what people do or what product they have made and less about their personal narratives. In this series, we encourage our speakers to share their stories as a transformative learning and inspirational opportunity. 
 
 Additionally, we acknowledge the lack of diversity in the civic tech community and believe that becoming more community-based with easier opportunities for engagement and gaining experience will spurn interest in the field and potentially serve as an economic solution to fill technology vacancies in Chicago.
 
-This partnership is especially timely considering Smart Chicago is currently an all women team fighting the good fight on behalf of civic technology and engagement and Chi Hack Night has set a priority area of focus on diversifying its thriving developer community. 
+This partnership is especially timely considering Smart Chicago is currently an all women team fighting the good fight on behalf of civic technology and engagement and Prog Hacknight has set a priority area of focus on diversifying its thriving developer community. 
 
-**The Women in Tech Speakers Series** will coincide with the four weekly Chi Hack Night events that occur on Tuesdays at Braintree in Merchandise Mart for the month of March. 
+**The Women in Tech Speakers Series** will coincide with the four weekly Prog Hacknight events that occur on Tuesdays at Braintree in Merchandise Mart for the month of March. 
 
 Additionally, **two community events** will be held on Wednesday, March 29th in Homan Square and Thursday March 30th at the DuSable Museum.
 
@@ -107,4 +107,4 @@ Chicago, IL 60637
 
 We hope you’ll join us in celebrating Women’s History Month and Chicago’s unique and amazing civic technology community. Here’s to Women’s History Month and fruitful partnerships! 
 
-**Correction March 8, 2017: 4pm** The 250th Chi Hack Night will be held on April 18th, not March 28th.
+**Correction March 8, 2017: 4pm** The 250th Prog Hacknight will be held on April 18th, not March 28th.

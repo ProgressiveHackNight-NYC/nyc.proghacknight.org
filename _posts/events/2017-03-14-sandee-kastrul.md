@@ -17,7 +17,7 @@ asl_provided: true
 published: true
 ---
 
-Chi Hack Night, in partnership with the [Smart Chicago Collaborative](http://smartchicagocollaborative.org/), is proud to present our [Women in Tech speaker series](https://chihacknight.org/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) celebrating Women's History Month. Throughout the month of March, we will feature amazing women speakers in the civic, nonprofit and technology space.
+Prog Hacknight, in partnership with the [Smart Chicago Collaborative](http://smartchicagocollaborative.org/), is proud to present our [Women in Tech speaker series](https://chihacknight.org/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) celebrating Women's History Month. Throughout the month of March, we will feature amazing women speakers in the civic, nonprofit and technology space.
 
 For our second episode, we welcome [Sandee Kastrul](https://twitter.com/SandeeKastrul), president and co-founder of [i.c.stars](http://www.icstars.org/), an innovative nonprofit leadership and technology training program founded in 1999 to prepare inner-city adults for technology careers and community leadership.
 

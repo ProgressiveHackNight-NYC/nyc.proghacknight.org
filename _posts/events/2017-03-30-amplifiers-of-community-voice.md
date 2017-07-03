@@ -22,7 +22,7 @@ asl_provided: false
 published: true
 ---
 
-[Smart Chicago Collaborative](http://smartchicagocollaborative.org/) and **Chi Hack Night** have teamed up to create a [speaking series in celebration of Women’s History Month](/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
+[Smart Chicago Collaborative](http://smartchicagocollaborative.org/) and **Prog Hacknight** have teamed up to create a [speaking series in celebration of Women’s History Month](/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) in an effort to elevate the talented, diverse women in civic-driven technology across Chicago.
 
 Food will be provided.
 
@@ -39,7 +39,7 @@ Thursday, March 30th we will convene at the DuSable Museum of African-American H
 
 Once the panel wraps up, the format of the event switches up a mini-hackathon. People are invited to break off into groups and work on projects, discuss potential ideas, and share their skills.
 
-Members of the Chi Hack Night community will be on site to run several of our popular breakout groups including:
+Members of the Prog Hacknight community will be on site to run several of our popular breakout groups including:
 
 **Civic Tech 101**
 

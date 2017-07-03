@@ -33,10 +33,10 @@ The petcoke was piled up 45 feet high, running from 100th Street to 111th Street
 [coalition]: https://www.facebook.com/Chicago-South-East-Side-Coalition-To-Ban-Petcoke-848330295223606
 [publiclab]: https://publiclab.org/
 
-<p class="text-center"><img src="/images/chihacknight-148-sugar-bautista.jpg" alt="Benjamin Sugar and Olga Bautista at Chi Hack Night #148" class="img-thumbnail"/><br />
+<p class="text-center"><img src="/images/chihacknight-148-sugar-bautista.jpg" alt="Benjamin Sugar and Olga Bautista at Prog Hacknight #148" class="img-thumbnail"/><br />
 
 <small>
-    <em>Benjamin Sugar and Olga Bautista at <a href='/events/2015/03/24/diy-environmental-monitoring.html'>Chi Hack Night #148</a></em>
+    <em>Benjamin Sugar and Olga Bautista at <a href='/events/2015/03/24/diy-environmental-monitoring.html'>Prog Hacknight #148</a></em>
 </small>
 </p>
 

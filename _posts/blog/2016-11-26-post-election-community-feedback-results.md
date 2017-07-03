@@ -3,27 +3,27 @@ layout: blog
 categories: 
   - blog
 title: "Post-election community feedback results"
-description: "On November 15, 2016, Chi Hack Night held a post-election community feedback session.  It was our largest Chi Hack Night ever with over 165 attendees. Read through the full results and see how our community is planning to adapt to America's new political reality."
+description: "On November 15, 2016, Prog Hacknight held a post-election community feedback session.  It was our largest Prog Hacknight ever with over 165 attendees. Read through the full results and see how our community is planning to adapt to America's new political reality."
 date: 2016-11-26
 image: /images/blog/2016-11-25-post-election-feedback/img1.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
-author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Chi Hack Night."
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Prog Hacknight."
 author2: 
 author2_url: 
 author2_image: 
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/2016-11-25-post-election-feedback/img1.jpg" alt="Reading out the results of the Post-election community feedback session at Chi Hack Night" class="img-thumbnail"/><br />
+<p class="text-center"><img src="/images/blog/2016-11-25-post-election-feedback/img1.jpg" alt="Reading out the results of the Post-election community feedback session at Prog Hacknight" class="img-thumbnail"/><br />
 
 <small>
-    <em>Reading out the results of the <a href='https://chihacknight.org/events/2016/11/15/post-election-community-feedback-session.html'>Post-election community feedback session</a> at Chi Hack Night</em>
+    <em>Reading out the results of the <a href='https://chihacknight.org/events/2016/11/15/post-election-community-feedback-session.html'>Post-election community feedback session</a> at Prog Hacknight</em>
 </small>
 </p>
 
-On November 15, 2016, Chi Hack Night held a post-election community feedback session. It was our largest Chi Hack Night ever with over **165 attendees**. Thank you to everyone for participating!
+On November 15, 2016, Prog Hacknight held a post-election community feedback session. It was our largest Prog Hacknight ever with over **165 attendees**. Thank you to everyone for participating!
 
 Many ideas were discussed, new relationships were made, and feelings were shared. But most of all, it just felt good to be in a room full of people who wanted to collaborate and work towards improving the public good.
 
@@ -33,7 +33,7 @@ The goals were:
 
 * To take the ‘temperature’ of our community after a major consequential event
 * To identify topics & ideas of shared interest
-* To bring in a broader pool of people to Chi Hack Night 
+* To bring in a broader pool of people to Prog Hacknight 
 * To create opportunities for new relationships & working groups to form
 
 ## Organizing the community
@@ -59,7 +59,7 @@ To give everyone an opportunity to give feedback, we wrote each question on a dr
 
 After rotating four times, we met back in the main auditorium and each facilitator summarized the highlights from each board. 
 
-Immediately following the feedback session, the Chi Hack Night [Leadership Council](http://chihacknight.org/leadership-council.html) met to record and synthesize the results.
+Immediately following the feedback session, the Prog Hacknight [Leadership Council](http://chihacknight.org/leadership-council.html) met to record and synthesize the results.
 
 <p class="text-center"><img src="/images/blog/2016-11-25-post-election-feedback/img3.jpg" alt="Karl Fogel facilitates group 2" class="img-thumbnail"/><br />
 
@@ -152,20 +152,20 @@ How can we help them?
 </small>
 </p>
 
-## Synthesis: Chi Hack Night’s goals & values
+## Synthesis: Prog Hacknight’s goals & values
 
-After reading through the feedback, the Chi Hack Night Leadership Council identified the **goals** that we as a community should now strive towards. 
+After reading through the feedback, the Prog Hacknight Leadership Council identified the **goals** that we as a community should now strive towards. 
 
-Chi Hack Night will strive to:
+Prog Hacknight will strive to:
 
 1. Be a **space for discussion** and cross-sector connections
 2. **Restore faith** in our government and civic institutions
 3. Commit to **fight disenfranchisement**
 4. **Facilitate community conversations** online, offline & across political, social and geographic boundaries
-5. Commit to an aggressive campaign to **diversify Chi Hack Night**
+5. Commit to an aggressive campaign to **diversify Prog Hacknight**
 6. **Get outside of our civic tech bubble**
     * Look into satellite / partner events
-    * Develop Chi Hack Night press kit to broaden our reach
+    * Develop Prog Hacknight press kit to broaden our reach
 7. Through our presenters and breakout groups, seek to improve:
     * **Digital skills** (development, implementation, data, cryptography)
     * **Civic literacy** (how government works and how to participate)
@@ -173,7 +173,7 @@ Chi Hack Night will strive to:
 8. **Provide expertise** and guidance on the ethics of using open data & building technology
 9. **Maximize our impact** through specialization (tech, policy, events, trainings)
 
-We also revisited our **core values** as a group. To re-affirm, Chi Hack Night is:
+We also revisited our **core values** as a group. To re-affirm, Prog Hacknight is:
 
 * A safe space where all are welcome regardless of race, religion, creed, political ideology or technical ability 
 * Governed by the community, open and accountable
@@ -189,7 +189,7 @@ We also revisited our **core values** as a group. To re-affirm, Chi Hack Night i
 
 ## Onward
 
-America is a different place than it was less than a month ago. And with this change, Chi Hack Night itself will adapt. It’s what we've always done since we started over 4 ½ years ago, from [rebranding](https://chihacknight.org/blog/2015/05/12/introducing-chi-hack-night.html), to [moving spaces](https://chihacknight.org/blog/2015/12/22/chi-hack-night-2015-year-in-review.html) to [forming our leadership council](https://chihacknight.org/blog/2015/01/06/open-gov-hack-night-2014-year-in-review.html). This is just the latest iteration, and it will not be our last.
+America is a different place than it was less than a month ago. And with this change, Prog Hacknight itself will adapt. It’s what we've always done since we started over 4 ½ years ago, from [rebranding](https://chihacknight.org/blog/2015/05/12/introducing-chi-hack-night.html), to [moving spaces](https://chihacknight.org/blog/2015/12/22/chi-hack-night-2015-year-in-review.html) to [forming our leadership council](https://chihacknight.org/blog/2015/01/06/open-gov-hack-night-2014-year-in-review.html). This is just the latest iteration, and it will not be our last.
 
 On this Thanksgiving break, it’s also important to remember and be thankful for the community we have built. It is something that 165 people spent their Tuesday night with us collaborating, networking, learning and building. 
 

@@ -31,6 +31,6 @@ In her talk, Robin will discuss the role she has taken on and the work needed to
 
 **Leadership Council #34**
 
-We will have our **34th** [Chi Hack Night Leadership Council](http://chihacknight.org/leadership-council.html) at **8pm** after the group breakouts get started. This meeting is for discussing new ideas and ways to make the hack night better. Anyone is welcome to join! 
+We will have our **34th** [Prog Hacknight Leadership Council](http://chihacknight.org/leadership-council.html) at **8pm** after the group breakouts get started. This meeting is for discussing new ideas and ways to make the hack night better. Anyone is welcome to join! 
 
 If you'd like to bring up a topic, add it to the [Leadership Council agenda](https://docs.google.com/document/d/13yQ9uWzWqIsiEMAf4Fbh_bx-KjnO86KWvierI5NDXdg/edit).
