@@ -16,7 +16,7 @@ layout: default
     {% if site.time <= page.date %}
       <div class='col-sm-7'>
     {% else %}
-      <div class='col-sm-12'> 
+      <div class='col-sm-12'>
     {% endif %}
 
       {% if page.youtube_id %}
@@ -70,22 +70,22 @@ layout: default
           {% if page.image %}
             <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' /></p>
           {% endif %}
-         
-          6pm<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
+
+          6:30p<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <br />
-            <span itemprop="name">Braintree office</span><br />
-            <a href='https://maps.google.com/maps?q=222+W+Merchandise+Mart+Plz+Chicago'>
+            <span itemprop="name">ThoughtWorks NYC</span><br />
+            <a href='https://goo.gl/maps/DFi4X9A8i1o'>
               <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                <span itemprop="streetAddress">222 W Merchandise Mart Plz
-                 <br />8th Floor</span><br />
-                <span itemprop="addressLocality">Chicago</span>,
-                <span itemprop="addressRegion">IL</span>
+                <span itemprop="streetAddress">99 Madison Ave
+                 <br />15th Floor</span><br />
+                <span itemprop="addressLocality">New York</span>,
+                <span itemprop="addressRegion">NY</span>
               </div>
             </a><br />
-            When you arrive in the Merchandise Mart, take the center elevators to the 8th floor.
+            Enter 99 Madison Avenue and take the elevator to the 15th floor.
           </div>
-          
+
         </div>
       </div>
     {% endif %}

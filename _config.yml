@@ -1,9 +1,9 @@
 port:  4000
 markdown: kramdown
 name: Prog Hacknight
-url: http://chihacknight.org
+url: http://proghacknight.org
 title: Prog Hacknight
-description: "Chicago's weekly event to build, share, and learn about civic tech."
+description: "The Progressive HackNight is dedicated to making great ideas happen. We embrace progressive ideals, and want our space to be safe, productive, and inspiring."
 encoding: utf-8
 timezone: America/Chicago
 gems:
