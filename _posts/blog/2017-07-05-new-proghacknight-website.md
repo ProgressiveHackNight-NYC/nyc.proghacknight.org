@@ -4,7 +4,7 @@ categories:
   - blog
 title: "New Progressive Hacknight Website!"
 description: "We're so excited to release a new and shiny ProgHacknight website! Inspired and forked from proghacknight's awesome Jekyll website."
-date: 2017-03-10
+date: 2017-07-05
 image: /images/blog/2017-07-05-new-proghacknight-website/website.png
 author: Rapi Castillo
 author_url: https://twitter.com/pikittakbo
@@ -17,35 +17,28 @@ author2_bio:
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/crains-opinion-chicago-murder-problem.jpg" alt="Technology alone can't solve Chicago's murder problem" class="img-thumbnail" />
+<p class="text-center"><img src="/images/logo/logo.png" alt="Progressive Hacknight" class="img-thumbnail" />
 
-<br /><small>
-    <em>Photo by ThinkStock</em>
+<br /><small><em></em>
 </small>
 </p>
 
-As members of Prog Hacknight, an open group that has been shaping civic technology in Chicago for five years, we would like to respond to [Scott Moorhouse's opinion piece](http://www.chicagobusiness.com/article/20170302/OPINION/170309998/how-to-end-violence-in-chicago-start-with-a-hackathon) suggesting a hackathon to solve Chicago's violence problem.
+# New (-ly forked) ProgHacknight Website!
 
-The serious problems of our city, including violence, belong to all Chicagoans. Making progress requires the deep engagement of elected officials, community organizations and residents. While hackathons are great for coming up with ideas, they fare poorly in creating technology that's usable in the long term.
+We're so excited to launch this new website forked from the good folks at ChiHacknight. This website aims to make more information available to our awesome participants, and provide a deeper context on the ongoing works in the progressive space.
 
-What we've learned from participating in hackathons and creating new technology is that apps built without the support of an underlying systemic change have marginal gains. Technology is one of many tools that can support solving Chicago's problems.
+## What's new
 
-We believe it's more important to listen and dig deep into the heart of the issues hurting our city.
+We've added new features to this website. Including:
 
-At Prog Hacknight, we've created a space where people can build, share and learn about civic tech. An on-ramp for civic engagement, Prog Hacknight strives to be a place where people can get to really know an issue and build partnerships not just with the experts on those issues, but with those who have the skills to develop solutions.
+* **Event details pages.** You can now see upcoming and past speakers. Julian Rad and Tino Bedi has been documenting our speakers, with the whole community collaboratively taking notes. [Checkout the events page!](/events)
 
-One of our biggest wins has been the launch of [mRelief](https://www.mrelief.com/#?category=All)—a Prog Hacknight project that has since grown into a nonprofit. It helps people determine their eligibility for social services using a text message survey that takes less than five minutes. The project kicked off in 2014 after founders Rose Afriyie and Genevieve Nielsen met with the Mayor's Office of Innovation staff at Prog Hacknight.
+* **Breakout groups.** We are now listing all the breakout groups, both discussion and working groups. We want this information available anytime, and in the future provide a detailed list of all the progressive tech projects being worked on in New York. [Checkout the breakout pages!](/breakout-groups)
 
-We consider our most successful projects those that have led to, or were part of, policy and rule changes that better address a problem. Any app created by the project team then becomes a method for educating others about a problem.
+* **Project Pages.** we are now featuring the projects being developed in ProgHacknight! We want to feature and honor the awesome work of our participants and provide them the spotlight they deserve! [Checkout the project page here](/projects).
 
-[Expunge.io](http://www.expunge.io/) is another example. Created by Cathy Deng, with contributions from Sharlyn Grace and Rene Paccha, the tool facilitates the arduous process to clear a juvenile criminal record. Helping people through that process, and changing the process itself, had already been spearheaded and advocated by existing organizations in Chicago. While people still have to go through the process, the app gauges their eligibility for expungement and advises them to contact Legal Aid Foundation Chicago, which can help further. As advocates have said, however, a superior solution would be a law that expunges juvenile criminal records automatically.
+* **Steering committee.** Get to know the people behind the event! Checkout the [team bio here](/steering-committee).
 
-We are trying to flip technology: Instead of "local business and tech leaders leading with input" from the experts and those affected by violence, we want the experts and those affected by violence to lead with input from people in business and technology.
+## Huge thanks to [ChiHacknight](www.chihacknight.org)
 
-People in communities impacted by violence have already said they need more jobs and support for local schools. Technology can help support those efforts, but code can't replace a living wage or a teacher in a classroom.
-
-In the last few months, we've heard from groups working on criminal justice reform including Lucy Parson Labs, Muckrock, Injustice Watch, the Chicago Community Bond Fund, and more. We've also heard from youth at Mikva Challenge, the city's chief data officer and the company that helped fix HealthCare.gov. We publish videos of the talks on YouTube so that people who can't make it can still participate.
-
-If you're interested in getting involved, we encourage you to come to a [Prog Hacknight event](https://proghacknight.org/). We meet every Tuesday at 6 p.m. in the Merchandise Mart.
-
-*This was originally posted on Crain's Chicago on March 6, 2017 under the title [A citywide hackathon? Please. Technology alone can't solve Chicago's murder problem.](http://www.chicagobusiness.com/article/20170306/OPINION/170309911/tech-hackathons-and-code-wont-solve-chicagos-violence-problem)*
+Thanks to Derek Eder and the team at Chi Hack Night for this fabulous Jekyll website. We've forked this from their repository, [available here](https://github.com/chihacknight/chihacknight.org). Yay open source!
