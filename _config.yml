@@ -10,4 +10,4 @@ gems:
   - jekyll-redirect-from
   - kramdown
 future: true
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
