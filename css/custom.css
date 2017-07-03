@@ -223,3 +223,8 @@ a { text-decoration: none !important; }
 }
 
 #press-list img { padding-bottom: 15px; }
+
+/** Team page */
+.team tr > td > img {
+  width: 150px;
+}
