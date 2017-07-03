@@ -1,6 +1,6 @@
-source "http://rubygems.org"
+source 'https://rubygems.org'
 
-# web
+ruby '2.1.0'
+gem 'bundler'
 gem 'jekyll'
-gem 'github-pages'
-gem 'jekyll-redirect-from'
+gem 'rack-jekyll'

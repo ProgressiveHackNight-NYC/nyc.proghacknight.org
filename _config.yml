@@ -9,3 +9,4 @@ timezone: America/Chicago
 gems:
   - jekyll-redirect-from
 future: true
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
