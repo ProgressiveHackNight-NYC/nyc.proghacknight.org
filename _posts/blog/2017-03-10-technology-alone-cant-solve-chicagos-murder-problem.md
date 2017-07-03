@@ -1,7 +1,7 @@
 ---
 layout: blog
-categories: 
-  - blog
+categories:
+  - chihacknight
 title: "Technology alone can't solve Chicago's murder problem"
 description: "As members of Prog Hacknight, an open group that has been shaping civic technology in Chicago for five years, we responded to Scott Moorhouse's opinion piece suggesting a hackathon to solve Chicago's violence problem."
 date: 2017-03-10

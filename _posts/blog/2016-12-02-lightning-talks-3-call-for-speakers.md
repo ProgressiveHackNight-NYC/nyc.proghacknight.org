@@ -1,7 +1,7 @@
 ---
 layout: blog
-categories: 
-  - blog
+categories:
+  - chihacknight
 title: "Lightning Talks 3: Call for Speakers"
 description: "Lightning Talks return for our last Prog Hacknight of the year! Do you have an interesting or funny story to tell about civics, society and/or technology? Want to show off that awesome project you’ve been working on? Now’s your chance to tell it to the world!"
 date: 2016-12-02
@@ -10,9 +10,9 @@ author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
 author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Prog Hacknight."
-author2: 
-author2_url: 
-author2_image: 
+author2:
+author2_url:
+author2_image:
 published: true
 ---
 
@@ -60,4 +60,3 @@ Eric tells us everything he could find out about one, really big, vacant, city o
 Vinesh tells us of a strange class he had last week. But was it a dream?
 
 <p><iframe frameborder="0" height="450" src="https://www.youtube.com/embed/-Q9iAXpWxjA" width="100%"></iframe></p>
-

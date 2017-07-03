@@ -1,7 +1,7 @@
 ---
 layout: blog
-categories: 
-  - blog
+categories:
+  - chihacknight
 title: "High school students are joining Prog Hacknight to train in user experience & design"
 description: "This Fall, Mikva Challenge and Mumkin Studio will partner to kick-off a program for teen user experience design interns at Prog Hacknight. Four Chicago Public High School students will work with Prog Hacknight during the fall quarter. They’ll design, implement, and evaluate user experience for two Prog Hacknight projects."
 date: 2016-08-26
@@ -10,9 +10,9 @@ author: Eve Tulbert
 author_url: https://www.linkedin.com/in/evetulbert
 author_image: /images/people/eve_tulbert.jpg
 author_bio: "Eve Tulbert is a teacher and learning researcher who is co-founding a learning design studio (mumkin.studio, as of Sept 1)."
-author2: 
-author2_url: 
-author2_image: 
+author2:
+author2_url:
+author2_image:
 published: true
 ---
 

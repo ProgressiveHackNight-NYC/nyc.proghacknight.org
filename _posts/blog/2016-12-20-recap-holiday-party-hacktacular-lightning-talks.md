@@ -1,7 +1,7 @@
 ---
 layout: blog
-categories: 
-  - blog
+categories:
+  - chihacknight
 title: "Recap: The Holiday Party Hacktacular Lightning Talks"
 description: "On December 13th 2016, Prog Hacknight hosted our last event of the year: The Prog Hacknight Holiday Party Hacktacular. Eight members of the Prog Hacknight community shared their own story or insight about civics, society and technology. The major themes this time around were the needs, tactics and benefits of inclusion, perspective on our community's role in society, and the responsibilities that we have as users of data."
 date: 2016-12-20
@@ -10,9 +10,9 @@ author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
 author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Prog Hacknight."
-author2: 
-author2_url: 
-author2_image: 
+author2:
+author2_url:
+author2_image:
 published: true
 ---
 
@@ -23,9 +23,9 @@ published: true
 </small>
 </p>
 
-On December 13th 2016, Prog Hacknight hosted our last event of the year: [The Prog Hacknight Holiday Party Hacktacular](https://chihacknight.org/events/2016/12/13/holiday-party-hack-tacular.html). 
+On December 13th 2016, Prog Hacknight hosted our last event of the year: [The Prog Hacknight Holiday Party Hacktacular](https://chihacknight.org/events/2016/12/13/holiday-party-hack-tacular.html).
 
-Based on the success of our[ two](https://chihacknight.org/blog/2016/04/15/tales-from-200.html)[ previous](https://chihacknight.org/blog/2016/07/21/lightning-talks-part-deux.html) Lightning Talk rounds, we decided to end 2016 with a another round of talks from members of our community. 
+Based on the success of our[ two](https://chihacknight.org/blog/2016/04/15/tales-from-200.html)[ previous](https://chihacknight.org/blog/2016/07/21/lightning-talks-part-deux.html) Lightning Talk rounds, we decided to end 2016 with a another round of talks from members of our community.
 
 Eight members of the Prog Hacknight community shared their own story or insight about civics, society and technology.
 
@@ -47,7 +47,7 @@ Using [AreMenTalkingTooMuch.com](http://arementalkingtoomuch.com/), a tool Cathy
 
 
 
-Recently, Don Chartier has been researching data privacy and the risks of re-identification, and ran across an article, "[BROKEN PROMISES OF PRIVACY: RESPONDING TO THE SURPRISING FAILURE OF ANONYMIZATION](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1450006)". 
+Recently, Don Chartier has been researching data privacy and the risks of re-identification, and ran across an article, "[BROKEN PROMISES OF PRIVACY: RESPONDING TO THE SURPRISING FAILURE OF ANONYMIZATION](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1450006)".
 
 Don summarizes that typical anonymization techniques, like removing personally identifiable information (PII), are no longer sufficient, but privacy laws give firms that just remove PII "safe harbor" (i.e., they're off the hook).
 
@@ -57,7 +57,7 @@ Don summarizes that typical anonymization techniques, like removing personally i
 
 
 
-Making a project accessible is about more than just the culture of the initial team behind it. Good documentation paves the way for a project to get external contributors interested, keep them involved, and allow non-technical folks to join in. 
+Making a project accessible is about more than just the culture of the initial team behind it. Good documentation paves the way for a project to get external contributors interested, keep them involved, and allow non-technical folks to join in.
 
 Viktor Köves gives some examples of projects that are documented well and shows how they are much more likely to thrive even after original collaborators have shifted focus.
 
@@ -75,7 +75,7 @@ Viktor Köves gives some examples of projects that are documented well and shows
 
 
 
-Eric Sherman draws parallels between the punk rock and hip hop subcultures to hack night's role in the civic tech movement. 
+Eric Sherman draws parallels between the punk rock and hip hop subcultures to hack night's role in the civic tech movement.
 
 ### 6. Rose Afriyie: What stops people in poverty from getting the help they need?
 
@@ -100,4 +100,3 @@ Tom Schenk, the Chief Data Officer for Chicago gives a review of the success of 
 
 
 Joseph  Smalzer recaps the Access to Justice Re-entry Impact-a-thon that was held in November and shares what they learned about addressing the needs of those recently released from incarceration.
-

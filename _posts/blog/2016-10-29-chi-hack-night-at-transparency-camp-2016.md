@@ -1,7 +1,7 @@
 ---
 layout: blog
-categories: 
-  - blog
+categories:
+  - chihacknight
 title: "Prog Hacknight at Transparency Camp 2016"
 description: "Oct 14-15, 2016 was Transparency Camp in Cleveland, Ohio - and Prog Hacknight was there to represent Chicago! As advocates of transparency and open government, it’s only natural that members of Prog Hacknight decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and hit the road."
 date: 2016-10-28
@@ -10,9 +10,9 @@ author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
 author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Prog Hacknight."
-author2: 
-author2_url: 
-author2_image: 
+author2:
+author2_url:
+author2_image:
 published: true
 ---
 
@@ -117,9 +117,9 @@ Kristi kicked off a discussion about the value of [qualitative data](http://rege
 
 ### Designing for policy change, Claire Micklin
 
-Claire Micklin led a session on how to design a civic app that affects policy change. She told the story of how [My Building Doesn’t Recycle](http://mybuildingdoesntrecycle.com/) went from being a Prog Hacknight project to helping spur the city of Chicago to rewrite its high-density building recycling law. 
+Claire Micklin led a session on how to design a civic app that affects policy change. She told the story of how [My Building Doesn’t Recycle](http://mybuildingdoesntrecycle.com/) went from being a Prog Hacknight project to helping spur the city of Chicago to rewrite its high-density building recycling law.
 
-Bonus: watch Claire’s Prog Hacknight presentation on this topic: [My Building Doesn't Recycle: Designing for Policy Change](https://chihacknight.org/events/2016/09/27/my-building-doesnt-recycle.html). 
+Bonus: watch Claire’s Prog Hacknight presentation on this topic: [My Building Doesn't Recycle: Designing for Policy Change](https://chihacknight.org/events/2016/09/27/my-building-doesnt-recycle.html).
 
 <p class="text-center"><img src="/images/blog/2016-10-29-tcamp/sustainable-hacking.jpg" alt="Derek Eder and Jill Bjers leading Sustainable models for volunteer civic hacking" class="img-thumbnail"/><br />
 
@@ -132,11 +132,11 @@ Bonus: watch Claire’s Prog Hacknight presentation on this topic: [My Building 
 
 Derek Eder, with [Vyki Englert](https://twitter.com/vyki_e) from [Hack for LA](http://www.hackforla.org/) and [Jill Bjers](https://twitter.com/Jillzey) from [Code for Charlotte](http://www.codeforcharlotte.org/) led a session on how each of their volunteer civic hacking organizations work, and how they sustain them.
 
-A key takeaway from the session was how different each group was despite sharing common purposes. Especially when the focus is on civic hacking in local context, developing a sustainable model requires work on a case-by-case basis. There is no clear, single top-down model that will work well and also be sustainable. 
+A key takeaway from the session was how different each group was despite sharing common purposes. Especially when the focus is on civic hacking in local context, developing a sustainable model requires work on a case-by-case basis. There is no clear, single top-down model that will work well and also be sustainable.
 
-Prog Hacknight, Hack for LA & Code for Charlotte each adapted to the context in which they operate in. Factors like buy-in from local stakeholders (govt or otherwise), size of their city, and how existing communities are tapped into, all dramatically shape how they operate. 
+Prog Hacknight, Hack for LA & Code for Charlotte each adapted to the context in which they operate in. Factors like buy-in from local stakeholders (govt or otherwise), size of their city, and how existing communities are tapped into, all dramatically shape how they operate.
 
-Being open-minded and flexible will go a long way, as these contexts may even shift. A more mature organization like Prog Hacknight has benefited from the unique place Chicago was in circa-2012, but has also had to learn how to continue to evolve while also resisting co-optation from other organizations. 
+Being open-minded and flexible will go a long way, as these contexts may even shift. A more mature organization like Prog Hacknight has benefited from the unique place Chicago was in circa-2012, but has also had to learn how to continue to evolve while also resisting co-optation from other organizations.
 
 [Read the full notes from this session](http://transparencycamp.org/schedule/2016/sessions-2-day2/).
 
@@ -152,7 +152,7 @@ Being open-minded and flexible will go a long way, as these contexts may even sh
 </small>
 </p>
 
-This year was an especially important TCamp, as both the Sunlight Foundation, the hosting organization, and the [civic tech movement in general](http://krues8dr.com/blog/2016/09/27/the-end-of-the-second-act-of-civic-tech/) have an [uncertain future](http://www.theatlantic.com/technology/archive/2016/09/sunlight-sunset/501071/). 
+This year was an especially important TCamp, as both the Sunlight Foundation, the hosting organization, and the [civic tech movement in general](http://krues8dr.com/blog/2016/09/27/the-end-of-the-second-act-of-civic-tech/) have an [uncertain future](http://www.theatlantic.com/technology/archive/2016/09/sunlight-sunset/501071/).
 
 It’s at times like these that the people who truly care about the work we’ve been doing get together, share openly what has and hasn’t been working and figure out new ways forward.
 
@@ -162,4 +162,3 @@ For more from Transparency Camp, check out Sunlight Foundation’s [#TCamp16 Sto
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Cleveland Rocks! <a href="https://twitter.com/hashtag/tcamp16?src=hash">#tcamp16</a> <a href="https://twitter.com/OSGISOMG">@OSGISOMG</a> <a href="https://twitter.com/vyki_e">@vyki_e</a> <a href="https://twitter.com/GJordanDetamore">@GJordanDetamore</a> <a href="https://twitter.com/TeresaWang428">@TeresaWang428</a> <a href="https://t.co/nXV3ZslQSt">pic.twitter.com/nXV3ZslQSt</a></p>&mdash; Derek Eder (@derekeder) <a href="https://twitter.com/derekeder/status/787478184937873408">October 16, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    
