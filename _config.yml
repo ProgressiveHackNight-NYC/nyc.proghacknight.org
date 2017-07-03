@@ -8,5 +8,6 @@ encoding: utf-8
 timezone: America/Chicago
 gems:
   - jekyll-redirect-from
+  - kramdown
 future: true
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
