@@ -6,7 +6,7 @@ title: Prog Hacknight
 description: "The Progressive HackNight is dedicated to making great ideas happen. We embrace progressive ideals, and want our space to be safe, productive, and inspiring."
 encoding: utf-8
 timezone: America/Chicago
-gems:
+plugins:
   - jekyll-redirect-from
   - kramdown
 future: true
