@@ -39,6 +39,6 @@ We've added new features to this website. Including:
 
 * **Steering committee.** Get to know the people behind the event! Checkout the [team bio here](/steering-committee).
 
-## Huge thanks to [ChiHacknight](www.chihacknight.org)
+## Huge thanks to [ChiHacknight](//www.chihacknight.org)
 
 Thanks to Derek Eder and the team at Chi Hack Night for this fabulous Jekyll website. We've forked this from their repository, [available here](https://github.com/chihacknight/chihacknight.org). Yay open source!
