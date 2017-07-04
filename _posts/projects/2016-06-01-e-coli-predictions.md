@@ -1,13 +1,13 @@
 ---
 layout: project
-categories: 
-  - projects
+categories:
+  - chihacknight
 title: "Predicting E. Coli levels in Chicago beaches"
 date: 2016-05-01
 image: /images/projects/e-coli-predictions.jpg
 description: "Chicago has three-dozen beaches that, sometimes, have high E. Coli levels. When do we need to warn the 9 million annual visitors of potentially high E. Coli levels? In 2016, members of Prog Hacknight built an improved statistical model to predict the E. coli levels at Chicago's beaches."
 github: https://github.com/Chicago/e-coli-beach-predictions
-creators: 
+creators:
  - Tom Schenk
  - Kevin Rose
  - Rebecca Jones

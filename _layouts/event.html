@@ -103,22 +103,22 @@ layout: default
     <script src="/js/galleria/galleria.js"></script>
     <script src="/js/galleria/plugins/flickr/galleria.flickr.js"></script>
     <script>
-      var flickr = new Galleria.Flickr();
-        flickr.tags('chihacknight-{{page.event_id}}, chihacknight{{page.event_id}}', function(data) {
-            // Should we show or hide the slideshow?
-            var $slideshow = $(".slideshow");
-            if (data.length) {
-              $slideshow.css({height: 600, marginBottom: 20});
-              $('#slideshow-header').show()
-            } else {
-              $slideshow.hide();
-            }
-
-            Galleria.loadTheme('/js/galleria/themes/classic/galleria.classic.js');
-            Galleria.run('.slideshow', {
-                dataSource: data
-            });
-        });
+      // var flickr = new Galleria.Flickr();
+      //   flickr.tags('chihacknight-{{page.event_id}}, chihacknight{{page.event_id}}', function(data) {
+      //       // Should we show or hide the slideshow?
+      //       var $slideshow = $(".slideshow");
+      //       if (data.length) {
+      //         $slideshow.css({height: 600, marginBottom: 20});
+      //         $('#slideshow-header').show()
+      //       } else {
+      //         $slideshow.hide();
+      //       }
+      //
+      //       Galleria.loadTheme('/js/galleria/themes/classic/galleria.classic.js');
+      //       Galleria.run('.slideshow', {
+      //           dataSource: data
+      //       });
+      //   });
     </script>
   </div>
 </div>

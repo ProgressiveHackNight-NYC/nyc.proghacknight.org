@@ -33,12 +33,12 @@ We've added new features to this website. Including:
 
 * **Event details pages.** You can now see upcoming and past speakers. Julian Rad and Tino Bedi has been documenting our speakers, with the whole community collaboratively taking notes. [Checkout the events page!](/events)
 
-* **Breakout groups.** We are now listing all the breakout groups, both discussion and working groups. We want this information available anytime, and in the future provide a detailed list of all the progressive tech projects being worked on in New York. [Checkout the breakout pages!](/breakout-groups)
+* **Breakout groups.** We are now listing all the breakout groups, both discussion and working groups. We want this information available anytime, and in the future provide a detailed list of all the progressive tech projects being worked on in New York. [Checkout the breakout pages!](/breakouts.html)
 
 * **Project Pages.** we are now featuring the projects being developed in ProgHacknight! We want to feature and honor the awesome work of our participants and provide them the spotlight they deserve! [Checkout the project page here](/projects).
 
-* **Steering committee.** Get to know the people behind the event! Checkout the [team bio here](/steering-committee).
+* **Steering committee.** Get to know the people behind the event! Checkout the [team bio here](/steering-committee.html).
 
-## Huge thanks to [ChiHacknight](www.chihacknight.org)
+## Huge thanks to [ChiHacknight](//www.chihacknight.org)
 
 Thanks to Derek Eder and the team at Chi Hack Night for this fabulous Jekyll website. We've forked this from their repository, [available here](https://github.com/chihacknight/chihacknight.org). Yay open source!

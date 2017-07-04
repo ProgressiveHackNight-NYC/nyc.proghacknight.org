@@ -9,7 +9,7 @@ title: "Code of Conduct"
 description: "The Progressive HackNight is dedicated to making great ideas happen. We embrace progressive ideals, and want our space to be safe, productive, and inspiring. We have put together these rules to ensure that our events and structures hold true to our progressive values.
 "
 date: 2017-07-01
-image: /images/blog/2016-08-18-chi-hack-night-youth/img0.jpg
+image: /images/culture/code-of-conduct.png
 author: Ilona Brand
 author_url: https://www.linkedin.com/in/theilonabrand/
 author_image: /images/team/ilona.png

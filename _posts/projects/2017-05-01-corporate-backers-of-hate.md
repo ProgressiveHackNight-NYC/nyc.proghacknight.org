@@ -25,20 +25,9 @@ Since Election Day, many of these corporations have joined Trump’s Business Co
 The “Corporate Backers of Hate” campaign needs a splashy new website that will name and shame key corporate targets and enable people around the country to directly contact the CEO and board members of these companies to demand they disassociate from the Trump administration AND cease their profiteering activities in one key way. This will follow the model of “Occupy the Boardroom." To maximize synergy with existing movement infrastructure, targets will include several big-name companies that are already the subject (e.g., Uber and Goldman Sachs).
 
 ### Group leader/s
-Sonya Reynolds (215)264-5968 sonya@nycet.org
-Daniel Altschuler daniel.altschuler@maketheroadny.org
 
-### Who we're looking for
-We're open!
-
-### Tools
-Describe the tools that you are using.
-
-### Relevant Links
-Any relevant links, e.g. a github repo, a demo site
-
-### Where we meet
-Where in the ThoughtWorks spaces do you plan to meet? In one of the meeting rooms? The couch? One of the tables?
+* Sonya Reynolds
+* Daniel Altschuler
 
 ## Working Group specific question
 
