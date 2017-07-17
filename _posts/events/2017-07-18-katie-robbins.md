@@ -9,7 +9,7 @@ speakers:
  - Katie Robbins, Executive Director of the NY Metro Chapter Physicians for National Healthcare Program
 image: /images/events/7-katie-robbins.png
 date: 2017-07-18T18:30:00-05:00
-event_id: 7
+event_id: 9
 youtube_id:
 agenda: https://docs.google.com/document/d/1Lz4EF9pj1VDYpTdr-oR8LLQSnSZ2lD95wEvTTHpNJBE/edit
 sponsor:
