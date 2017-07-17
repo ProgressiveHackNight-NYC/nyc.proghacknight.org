@@ -140,6 +140,13 @@ a { text-decoration: none !important; }
   margin-top: 28px;
 }
 
+.img-thumbnail.speaker-image {
+  float: left;
+width: 300px;
+margin-right: 9px;
+margin-top: 15px;
+}
+
 @media screen and (max-width: 767px) {
   body, table { font-size: 16px; }
 
