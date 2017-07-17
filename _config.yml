@@ -1,7 +1,7 @@
 port:  4000
 markdown: kramdown
 name: Prog Hacknight
-url: http://proghacknight.org
+url: http://www.progressivehacknight.org
 title: Prog Hacknight
 description: "Progressive HackNight is a bi-weekly gathering of coders and creatives, makers and doers, to foment and inspire action. We use our collective talents and abilities to push forward  pro-social change in benefit of the common good."
 encoding: utf-8
