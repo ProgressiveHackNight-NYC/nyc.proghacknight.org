@@ -18,7 +18,8 @@ author2:
 author2_url:
 author2_image:
 published: true
-redirect_from: code-of-conduct.html
+redirect_from:
+  - /code-of-conduct.html
 ---
 
 <p class="text-center"><img src="/images/culture/code-of-conduct.png" alt="People at the 2nd ProgHacknight" class="img-thumbnail"/><br />

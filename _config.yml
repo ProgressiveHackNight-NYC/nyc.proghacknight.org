@@ -6,8 +6,10 @@ title: Prog Hacknight
 description: "Progressive HackNight is a bi-weekly gathering of coders and creatives, makers and doers, to foment and inspire action. We use our collective talents and abilities to push forward  pro-social change in benefit of the common good."
 encoding: utf-8
 timezone: America/New York
-plugins:
+plugins_dir:
   - jekyll-redirect-from
   - kramdown
+gems:
+  - jekyll-redirect-from
 future: true
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']

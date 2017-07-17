@@ -17,7 +17,8 @@ author2:
 author2_url:
 author2_image:
 published: true
-redirect_from: speaker-submissions.html
+redirect_from:
+  - /speaker-submissions.html
 
 ---
 
