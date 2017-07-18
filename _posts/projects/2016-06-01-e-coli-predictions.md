@@ -5,7 +5,7 @@ categories:
 title: "Predicting E. Coli levels in Chicago beaches"
 date: 2016-05-01
 image: /images/projects/e-coli-predictions.jpg
-description: "Chicago has three-dozen beaches that, sometimes, have high E. Coli levels. When do we need to warn the 9 million annual visitors of potentially high E. Coli levels? In 2016, members of Prog Hacknight built an improved statistical model to predict the E. coli levels at Chicago's beaches."
+description: "Chicago has three-dozen beaches that, sometimes, have high E. Coli levels. When do we need to warn the 9 million annual visitors of potentially high E. Coli levels? In 2016, members of Progressive Hacknight built an improved statistical model to predict the E. coli levels at Chicago's beaches."
 github: https://github.com/Chicago/e-coli-beach-predictions
 creators:
  - Tom Schenk
@@ -24,9 +24,9 @@ published: true
 
 Built entirely by a team of volunteers from Chicago’s civic tech community, this predictive model was [officially adopted by the City of Chicago in May 2016](/blog/2016/06/23/taking-predictive-analytics-to-the-beach.html) to help the [Park District](http://www.chicagoparkdistrict.com/) know when they should issue warnings to swimmers of potentially high levels of bacteria.
 
-This project is followed the successful launch of [Is There Sewage in the Chicago River](http://istheresewageinthechicagoriver.com/), another Prog Hacknight project.
+This project is followed the successful launch of [Is There Sewage in the Chicago River](http://istheresewageinthechicagoriver.com/), another Progressive Hacknight project.
 
-Rebecca Jones, gave a lightning talk at Prog Hacknight after the project was completed. Watch her talk, [Predicting E. Coli Exceedances on Chicago Beaches](https://youtube.com/watch?v=A9UPmQFACEA):
+Rebecca Jones, gave a lightning talk at Progressive Hacknight after the project was completed. Watch her talk, [Predicting E. Coli Exceedances on Chicago Beaches](https://youtube.com/watch?v=A9UPmQFACEA):
 
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/A9UPmQFACEA" frameborder="0" allowfullscreen></iframe>
 
@@ -48,9 +48,9 @@ Chief Data Officer for Chicago
 
 Members of the public brought-up the seemly low performance of a federal/academic model to predict E. Coli levels. After some preliminary analysis , this turned-out to be true, but was also clear there was opportunity for improvement. Since the data was public, volunteer data scientists could tackle this project to help the city and visitors to Chicago's beaches.
 
-**How did Prog Hacknight help?**
+**How did Progressive Hacknight help?**
 
-Volunteers at Prog Hacknight tackled this project on a weekly basis. From November 2015 through May 2016, a half-dozen to a dozen volunteers worked on the project during Hack Night, nights, and weekends. The project's [weekly meeting notes](https://github.com/Chicago/e-coli-beach-predictions/wiki/ChiHackNight-Meeting-Notes) show the dedicated work from the team.
+Volunteers at Progressive Hacknight tackled this project on a weekly basis. From November 2015 through May 2016, a half-dozen to a dozen volunteers worked on the project during Hack Night, nights, and weekends. The project's [weekly meeting notes](https://github.com/Chicago/e-coli-beach-predictions/wiki/ChiHackNight-Meeting-Notes) show the dedicated work from the team.
 
 **What was the impact of your project?**
 

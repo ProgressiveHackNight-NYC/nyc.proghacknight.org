@@ -2,8 +2,8 @@
 layout: blog
 categories:
   - chihacknight
-title: "High school students are joining Prog Hacknight to train in user experience & design"
-description: "This Fall, Mikva Challenge and Mumkin Studio will partner to kick-off a program for teen user experience design interns at Prog Hacknight. Four Chicago Public High School students will work with Prog Hacknight during the fall quarter. They’ll design, implement, and evaluate user experience for two Prog Hacknight projects."
+title: "High school students are joining Progressive Hacknight to train in user experience & design"
+description: "This Fall, Mikva Challenge and Mumkin Studio will partner to kick-off a program for teen user experience design interns at Progressive Hacknight. Four Chicago Public High School students will work with Progressive Hacknight during the fall quarter. They’ll design, implement, and evaluate user experience for two Progressive Hacknight projects."
 date: 2016-08-26
 image: /images/blog/2016-08-18-chi-hack-night-youth/img0.jpg
 author: Eve Tulbert
@@ -16,16 +16,16 @@ author2_image:
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/2016-08-18-chi-hack-night-youth/img0.jpg" alt="CPS students at Prog Hacknight" class="img-thumbnail"/><br />
+<p class="text-center"><img src="/images/blog/2016-08-18-chi-hack-night-youth/img0.jpg" alt="CPS students at Progressive Hacknight" class="img-thumbnail"/><br />
 
 <small>
-    <em>CPS students at Prog Hacknight</em>
+    <em>CPS students at Progressive Hacknight</em>
 </small>
 </p>
 
-This Fall, [Mikva Challenge](http://www.mikvachallenge.org/) and [Mumkin Studio](http://www.mumkin.studio) will partner to kick-off a program for teen user experience design interns at Prog Hacknight.
+This Fall, [Mikva Challenge](http://www.mikvachallenge.org/) and [Mumkin Studio](http://www.mumkin.studio) will partner to kick-off a program for teen user experience design interns at Progressive Hacknight.
 
-Four Chicago Public High School students will work with Prog Hacknight during the fall quarter. They’ll design, implement, and evaluate user experience for the Prog Hacknight project [Edumap](http://edumap2.herokuapp.com/), a tool for finding computer science curriculum to assist with Chicago Public Schools Computer Science for All (CS4All) initiative.
+Four Chicago Public High School students will work with Progressive Hacknight during the fall quarter. They’ll design, implement, and evaluate user experience for the Progressive Hacknight project [Edumap](http://edumap2.herokuapp.com/), a tool for finding computer science curriculum to assist with Chicago Public Schools Computer Science for All (CS4All) initiative.
 
 The program is sponsored by a [Spark grant from Mozilla Hive Chicago](http://hivechicago.org/about/fund/).
 
@@ -37,6 +37,6 @@ The youth interns will get their hands dirty with the work of UX research, apply
 
 "Civic tech projects are an exciting way to tackle community issues," says Lisa Kim, Youth Commission Director at Mikva Challenge and program co-teacher. “it's important for young Chicagoans to be active authors in this process, because tech that's meant to serve youth should also be made by youth!”
 
-Students will start attending Prog Hacknights in November and December. Come meet them and share your ideas about what makes a successful UX project!
+Students will start attending Progressive Hacknights in November and December. Come meet them and share your ideas about what makes a successful UX project!
 
-On Tuesday, December 6th, these students, along with their teaching team, will present their findings to Prog Hacknight. This day will also be a book launch for The Youth UX Field guide, a guidebook for engaging youth UX teams in civics and civic tech research.
+On Tuesday, December 6th, these students, along with their teaching team, will present their findings to Progressive Hacknight. This day will also be a book launch for The Youth UX Field guide, a guidebook for engaging youth UX teams in civics and civic tech research.

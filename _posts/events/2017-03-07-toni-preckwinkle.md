@@ -4,7 +4,7 @@ categories:
   - chihacknight 
 links:
 title: "Cook County Board President Toni Preckwinkle"
-description: "This week, we are honored to welcome Cook County Board President Toni Preckwinkle to Prog Hacknight. As a dedicated community leader for over two decades, President Preckwinkle will talk about strategies for collaborative approaches that can drive positive change in Cook County."
+description: "This week, we are honored to welcome Cook County Board President Toni Preckwinkle to Progressive Hacknight. As a dedicated community leader for over two decades, President Preckwinkle will talk about strategies for collaborative approaches that can drive positive change in Cook County."
 speakers:
  - Toni Preckwinkle, Cook County Board President
 image: /images/events/244-toni-preckwinkle.jpg
@@ -17,7 +17,7 @@ asl_provided: true
 published: true
 ---
 
-Prog Hacknight, in partnership with the [Smart Chicago Collaborative](http://smartchicagocollaborative.org/), is proud to present our [Women in Tech speaker series](https://chihacknight.org/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) celebrating Women's History Month. Throughout the month of March, we will feature amazing women speakers in the civic, nonprofit and technology space.
+Progressive Hacknight, in partnership with the [Smart Chicago Collaborative](http://smartchicagocollaborative.org/), is proud to present our [Women in Tech speaker series](https://chihacknight.org/blog/2017/03/07/presenting-the-women-in-tech-speaker-series.html) celebrating Women's History Month. Throughout the month of March, we will feature amazing women speakers in the civic, nonprofit and technology space.
 
 This week, we are honored to welcome [Cook County Board President Toni Preckwinkle](https://www.cookcountyil.gov/person/toni-preckwinkle).
 
