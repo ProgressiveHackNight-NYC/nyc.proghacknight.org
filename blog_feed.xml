@@ -6,7 +6,7 @@ layout: null
   <channel>
     <title>Progressive Hack Night Blog</title>
     <description>A communal blog for the intersection of activism and technology.</description>
-    <link>http://proghacknight.org/events.html</link>
+    <link>http://progressivehacknight.org/events.html</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.categories['blog'] limit:10 %}
       <item>
