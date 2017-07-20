@@ -17,6 +17,19 @@ asl_provided: false
 published: true
 ---
 
+## Get involved!
+
+Challenge the opposition’s claims that we cannot afford a universal, public system. The reality is we cannot afford the current system.
+
+Raise the profile of real people’s experiences. Our stories are the most powerful weapon we have against the opposition.
+
+Organize to change what is politically possible.
+
+* **Check out the [Campaign for New York Health](www.nyhcampaign.org)**. The Campaign for New York Health is a statewide coalition dedicated to passing and implementing legislation for universal health care in New York State.[We encourage you to join them](http://www.nyhcampaign.org/endorse)!
+* **Follow PNHP NY Metro Chapter on Twitter**. [@pnhpnymetro](https://twitter.com/pnhpnymetro) or [@pnhp](https://twitter.com/pnhp)
+
+## About the Speaker
+
 Katie Robbins is the Executive Director of the [NY Metro Chapter](http://pnhpnymetro.org) [Physicians for National Healthcare Program](http://pnhp.org), a single issue organization advocating a universal, comprehensive single-payer national health program. PNHP has 20,000 members and 40 chapters across the United States.
 
 Since 1987, they've advocated for reform in the U.S. health care system. They educate physicians and other health professionals about the benefits of a single-payer system--including fewer administrative costs and affording health insurance for the 30 million Americans who have none.
