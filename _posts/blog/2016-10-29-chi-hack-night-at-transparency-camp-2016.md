@@ -2,43 +2,43 @@
 layout: blog
 categories:
   - chihacknight
-title: "Prog Hacknight at Transparency Camp 2016"
-description: "Oct 14-15, 2016 was Transparency Camp in Cleveland, Ohio - and Prog Hacknight was there to represent Chicago! As advocates of transparency and open government, it’s only natural that members of Prog Hacknight decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and hit the road."
+title: "Progressive Hacknight at Transparency Camp 2016"
+description: "Oct 14-15, 2016 was Transparency Camp in Cleveland, Ohio - and Progressive Hacknight was there to represent Chicago! As advocates of transparency and open government, it’s only natural that members of Progressive Hacknight decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and hit the road."
 date: 2016-10-28
 image: /images/blog/2016-10-29-tcamp/hack-night-boyz.jpg
 author: Derek Eder
 author_url: https://twitter.com/derekeder
 author_image: /images/people/derek_eder.jpg
-author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Prog Hacknight."
+author_bio: "Derek is an entrepreneur, developer and one of the leaders of the civic technology community in Chicago. He is a co-founder and partner at DataMade — a company that tells stories and builds tools with data — and is the lead organizer for Progressive Hacknight."
 author2:
 author2_url:
 author2_image:
 published: true
 ---
 
-<p class="text-center"><img src="/images/blog/2016-10-29-tcamp/hack-night-boyz.jpg" alt="Prog Hacknight-ers Josh Kalov, Eric Sherman, Derek Eder and Adam Hecktman at Transparency Camp 2016" class="img-thumbnail"/><br />
+<p class="text-center"><img src="/images/blog/2016-10-29-tcamp/hack-night-boyz.jpg" alt="Progressive Hacknight-ers Josh Kalov, Eric Sherman, Derek Eder and Adam Hecktman at Transparency Camp 2016" class="img-thumbnail"/><br />
 
 <small>
-    <em>Prog Hacknight-ers Josh Kalov, Eric Sherman, Derek Eder and Adam Hecktman at Transparency Camp 2016, (<a href='https://www.flickr.com/photos/sunlightfoundation/30391393135/in/album-72157675340259895/'>Sunlight Foundation</a>)</em>
+    <em>Progressive Hacknight-ers Josh Kalov, Eric Sherman, Derek Eder and Adam Hecktman at Transparency Camp 2016, (<a href='https://www.flickr.com/photos/sunlightfoundation/30391393135/in/album-72157675340259895/'>Sunlight Foundation</a>)</em>
 </small>
 </p>
 
-Oct 14-15, 2016 was [Transparency Camp](http://transparencycamp.org/) in Cleveland, Ohio - and Prog Hacknight was there to represent Chicago!
+Oct 14-15, 2016 was [Transparency Camp](http://transparencycamp.org/) in Cleveland, Ohio - and Progressive Hacknight was there to represent Chicago!
 
 Transparency Camp, or [TCamp](https://twitter.com/search?q=%23tcamp16&src=typd) as we like to call it, is an unconference that focuses on sharing knowledge about open government, civic tech and how we can make our government work better.
 
-## Getting there: The Prog Hacknight Bus (it was actually a van)
+## Getting there: The Progressive Hacknight Bus (it was actually a van)
 
-As advocates of transparency and open government, it’s only natural that members of Prog Hacknight decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and hit the road.
+As advocates of transparency and open government, it’s only natural that members of Progressive Hacknight decided to attend. With Cleveland a 5-6 hour drive away, we decided to make a road trip out of it! We rented a van and hit the road.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let&#39;s do this<a href="https://twitter.com/chihacknight">@chihacknight</a> <a href="https://twitter.com/hashtag/tcamp16?src=hash">#tcamp16</a> <a href="https://twitter.com/hashtag/hacknightbus?src=hash">#hacknightbus</a> <a href="https://t.co/d9voCo87F6">pic.twitter.com/d9voCo87F6</a></p>&mdash; Derek Eder (@derekeder) <a href="https://twitter.com/derekeder/status/786647819155337216">October 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br /><br />
 
-The Prog Hacknight bus crew:
+The Progressive Hacknight bus crew:
 
-* [Derek Eder](https://twitter.com/derekeder), DataMade and organizer for Prog Hacknight
+* [Derek Eder](https://twitter.com/derekeder), DataMade and organizer for Progressive Hacknight
 * [Eric Sherman](https://twitter.com/OSGISOMG), Open Source Consultant
 * [Claire Micklin](https://twitter.com/clairemicklin), Interaction Designer at The University of Chicago
 * [Kristi Leach](https://twitter.com/Kristil), User Experience Researcher
@@ -47,14 +47,14 @@ The Prog Hacknight bus crew:
 
 <br />
 
-<p class="text-center"><img src="/images/blog/2016-10-29-tcamp/bus-crew.jpg" alt="The Prog Hacknight Bus crew" class="img-thumbnail" style='width: 75%;'/><br />
+<p class="text-center"><img src="/images/blog/2016-10-29-tcamp/bus-crew.jpg" alt="The Progressive Hacknight Bus crew" class="img-thumbnail" style='width: 75%;'/><br />
 
 <small>
-    <em>The Prog Hacknight Bus crew</em>
+    <em>The Progressive Hacknight Bus crew</em>
 </small>
 </p>
 
-Along the way, we talked about civic tech, politics, the election, the [origins of Toledo](https://en.wikipedia.org/wiki/Timeline_of_the_Toledo_Strip), and listened to A LOT of podcasts. If you’d like to recreate the magic that was the Prog Hacknight bus, here’s the list of podcasts we listened to:
+Along the way, we talked about civic tech, politics, the election, the [origins of Toledo](https://en.wikipedia.org/wiki/Timeline_of_the_Toledo_Strip), and listened to A LOT of podcasts. If you’d like to recreate the magic that was the Progressive Hacknight bus, here’s the list of podcasts we listened to:
 
 * [Instaserfs](https://toe.prx.org/2015/06/instaserfs-i-of-iii/), The Theory of Everything
 * [How Uber fought city hall — and won](http://www.recode.net/2016/9/26/13051582/bradley-tusk-uber-regulation-new-york-bill-de-blasio), Recode Decode
@@ -65,7 +65,7 @@ Along the way, we talked about civic tech, politics, the election, the [origins 
 
 We also created a hashtag for our trip: [#hacknightbus](https://twitter.com/search?f=tweets&vertical=default&q=%23hacknightbus&src=typd). You can recap our adventures on [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=%23hacknightbus&src=typd)!
 
-## Sessions led by Prog Hacknight-ers
+## Sessions led by Progressive Hacknight-ers
 
 Transparency Camp is an [unconference](https://en.wikipedia.org/wiki/Unconference), meaning there are no set speakers. Participants submit session ideas, and everyone votes on what session they’d like to go to. The sessions with the most votes get assigned rooms, and off they go! Each session is encouraged to take notes and share out what they discussed on the [Transparency Camp website](http://transparencycamp.org/schedule/2016/).
 
@@ -78,7 +78,7 @@ Each session is run differently, but the general goal is to feature open discuss
 </small>
 </p>
 
-The Prog Hacknight crew proposed and led several sessions, from mapping, to design thinking, and discussions about sustainable models for civic tech. Here’s a recap of each.
+The Progressive Hacknight crew proposed and led several sessions, from mapping, to design thinking, and discussions about sustainable models for civic tech. Here’s a recap of each.
 
 <p class="text-center"><img src="/images/blog/2016-10-29-tcamp/better-map-tools.jpg" alt="Building and Beta-Testing Better Map Tools" class="img-thumbnail"/><br />
 
@@ -117,9 +117,9 @@ Kristi kicked off a discussion about the value of [qualitative data](http://rege
 
 ### Designing for policy change, Claire Micklin
 
-Claire Micklin led a session on how to design a civic app that affects policy change. She told the story of how [My Building Doesn’t Recycle](http://mybuildingdoesntrecycle.com/) went from being a Prog Hacknight project to helping spur the city of Chicago to rewrite its high-density building recycling law.
+Claire Micklin led a session on how to design a civic app that affects policy change. She told the story of how [My Building Doesn’t Recycle](http://mybuildingdoesntrecycle.com/) went from being a Progressive Hacknight project to helping spur the city of Chicago to rewrite its high-density building recycling law.
 
-Bonus: watch Claire’s Prog Hacknight presentation on this topic: [My Building Doesn't Recycle: Designing for Policy Change](https://chihacknight.org/events/2016/09/27/my-building-doesnt-recycle.html).
+Bonus: watch Claire’s Progressive Hacknight presentation on this topic: [My Building Doesn't Recycle: Designing for Policy Change](https://chihacknight.org/events/2016/09/27/my-building-doesnt-recycle.html).
 
 <p class="text-center"><img src="/images/blog/2016-10-29-tcamp/sustainable-hacking.jpg" alt="Derek Eder and Jill Bjers leading Sustainable models for volunteer civic hacking" class="img-thumbnail"/><br />
 
@@ -134,9 +134,9 @@ Derek Eder, with [Vyki Englert](https://twitter.com/vyki_e) from [Hack for LA](h
 
 A key takeaway from the session was how different each group was despite sharing common purposes. Especially when the focus is on civic hacking in local context, developing a sustainable model requires work on a case-by-case basis. There is no clear, single top-down model that will work well and also be sustainable.
 
-Prog Hacknight, Hack for LA & Code for Charlotte each adapted to the context in which they operate in. Factors like buy-in from local stakeholders (govt or otherwise), size of their city, and how existing communities are tapped into, all dramatically shape how they operate.
+Progressive Hacknight, Hack for LA & Code for Charlotte each adapted to the context in which they operate in. Factors like buy-in from local stakeholders (govt or otherwise), size of their city, and how existing communities are tapped into, all dramatically shape how they operate.
 
-Being open-minded and flexible will go a long way, as these contexts may even shift. A more mature organization like Prog Hacknight has benefited from the unique place Chicago was in circa-2012, but has also had to learn how to continue to evolve while also resisting co-optation from other organizations.
+Being open-minded and flexible will go a long way, as these contexts may even shift. A more mature organization like Progressive Hacknight has benefited from the unique place Chicago was in circa-2012, but has also had to learn how to continue to evolve while also resisting co-optation from other organizations.
 
 [Read the full notes from this session](http://transparencycamp.org/schedule/2016/sessions-2-day2/).
 
@@ -156,7 +156,7 @@ This year was an especially important TCamp, as both the Sunlight Foundation, th
 
 It’s at times like these that the people who truly care about the work we’ve been doing get together, share openly what has and hasn’t been working and figure out new ways forward.
 
-Prog Hacknight was proud and happy to contribute to this conversation, and share our stories of civic tech in Chicago. Long live Transparency Camp!
+Progressive Hacknight was proud and happy to contribute to this conversation, and share our stories of civic tech in Chicago. Long live Transparency Camp!
 
 For more from Transparency Camp, check out Sunlight Foundation’s [#TCamp16 Storify](https://storify.com/sunfoundation/tcamp16) and Flickr photosets from [Day 1](https://www.flickr.com/photos/sunlightfoundation/albums/72157675340259895/with/29759603423/) and [Day 2](https://www.flickr.com/photos/sunlightfoundation/albums/72157671821199924).
 

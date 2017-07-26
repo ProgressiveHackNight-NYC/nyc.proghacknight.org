@@ -1,6 +1,6 @@
 # Progressive Hack Night
 
-Website for [Progressive Hack Night](http://proghacknight.org/).
+Website for [Progressive Hack Night](http://progressivehacknight.org/).
 
 *Forked from [Chi Hack Night](http://chihacknight.org)*
 
