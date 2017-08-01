@@ -10,7 +10,7 @@ speakers:
 image:
 date: 2017-07-18T18:30:00-05:00
 event_id: 9
-youtube_id:
+youtube_id: LzeTmEmbb2M
 agenda: https://docs.google.com/document/d/1Lz4EF9pj1VDYpTdr-oR8LLQSnSZ2lD95wEvTTHpNJBE/edit
 sponsor:
 asl_provided: false

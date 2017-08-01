@@ -23,13 +23,18 @@ On August 1, Sonya Reynolds, Data Director for the [NY Civic Engagement Table](h
 
 August 1 is going to be a doozy. Sonya Reynolds, Data Director of NY Civic Engagement Table, will lead a panel of organizers and technologists who have used SMS to engage, mobilize, and organize communities. This is the first of many lightning talks and we're excited to launch this series with you. Joining the panel are the following awesome people:
 
-• Allie Monck and Joyce Li from the [NYC Council Public Technology](http://legistar.council.nyc.gov/DepartmentDetail.aspx?ID=8866&GUID=72EEA817-E6FF-4051-B853-BC1DAD04E8CC) office
 
-• Fryda Guedes - [Hispanic Federation](http://hispanicfederation.org/)’s Director of Immigration and Civic Engagement
+• **Allie Monck and Joyce Li** from the NYC Council Speakers office will talk about how Robo-texting enabled them to engage and scale their reach to New Yorkers.
 
-• Josh Cohen – will talk about his work on Hero, a digital platform used by BC NDP which helped them win the elections through volunteer engagement.
+• **Fryda Guedes** will discuss how Peer-to-peer texting is used by the [Hispanic Federation](http://hispanicfederation.org/) to reachout to the communities they are supporting.
 
-We are currently confirming other speakers – will definitely keep you posted! If you have ideas on who should be at the lightning talks, would love to hear your thought at #pitch-zone or email us at [steering@proghacknight.org](mailto:steering@proghacknight.org).
+• **Josh Cohen** from Hero will discuss how texting was used to engage with Canadians and help the New Democratic Party of British Columbia win.
+
+• **Greg Baugues** from [Twilio](//www.twilio.com) will discuss the how-to's on using their API so that you can start building your own texting application.
+
+• **Jon Warnow** from [Relay](//www.relaytxt.com) will discuss new and exciting ways organizers are using texting as an effective and successful means to engage with people.
+
+
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.
 
@@ -38,11 +43,11 @@ We are currently confirming other speakers – will definitely keep you posted! 
 ### <i class="fa fa-cutlery fa-fw"></i> Pizza sponsor: RelayText
 
 
-<div style="display: inline-block; background-color: black; padding: 5px 10px;">
-<a href="//relaytxt.com"><img src="/images/sponsors/relay.png" width="70px" /></a>
-</div>
+We’re so excited to have [RelayTxt](http://www.relaytxt.com/) sponsor the food for this hacknight! A peer-to-peer texting platform used by the UK Labor Party, NextGen Climate, and a number of campaigns and organizations, to engage and organize with their respective constituencies and communities.
 
-We’re so excited to have [RelayTxt](http://www.relaytxt.com/) sponsor the food and drinks for this hacknight! Help us figure out how many pizzas will be had by RSVP’ing at our Eventbrite page!
+### <i class="fa fa-glass fa-fw"></i> Drinks sponsor: Twilio
+
+We’re so excited to have [Twilio](http://www.twilio.com/) sponsor the drinks for this hacknight! They take care of the messy telecom hardware and expose a globally available cloud API that developers can interact with to build intelligent and complex communications systems.
 
 <!-- ### Co-sponsor: Civic Hall
 
