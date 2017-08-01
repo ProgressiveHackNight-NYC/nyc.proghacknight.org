@@ -28,11 +28,11 @@ August 1 is going to be a doozy. Sonya Reynolds, Data Director of NY Civic Engag
 
 • **Fryda Guedes** will discuss how Peer-to-peer texting is used by the [Hispanic Federation](http://hispanicfederation.org/) to reachout to the communities they are supporting.
 
-• **Josh Cohen** from Hero will discuss how texting was used to engage with Canadians and help the New Democratic Party of British Columbia win.
+• **Josh Cohen** from Hero will discuss how texting was used to engage with Canadians and help the New Democratic Party of British Columbia get electoral victories.
 
-• **Greg Baugues** from [Twilio](//www.twilio.com) will discuss the how-to's on using their API so that you can start building your own texting application.
+• **Greg Baugues** from [Twilio](//www.twilio.com) will live demo their platform so that you can start building your own texting application.
 
-• **Jon Warnow** from [Relay](//www.relaytxt.com) will discuss new and exciting ways organizers are using texting as an effective and successful means to engage with people.
+• **Jon Warnow** from [Relay](//www.relaytxt.com) will discuss new ways organizers are using texting across the country.
 
 
 
