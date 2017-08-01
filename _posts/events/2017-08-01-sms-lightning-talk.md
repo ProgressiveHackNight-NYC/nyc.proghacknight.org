@@ -21,19 +21,17 @@ published: true
 
 On August 1, Sonya Reynolds, Data Director for the [NY Civic Engagement Table](http://www.cvhaction.org/civic_engagement) and member of the steering committee of [Progressive Hacknight](//progressivehacknight.org), will lead a panel of organizers and technologists whose works are focused on engaging with communities and voters through SMS texting.
 
-August 1 is going to be a doozy. Sonya Reynolds, Data Director of NY Civic Engagement Table, will lead a panel of organizers and technologists who have used SMS to engage, mobilize, and organize communities. This is the first of many lightning talks and we're excited to launch this series with you. Joining the panel are the following awesome people:
-
+Organizers and technologists present their work and share their experiences on how they have used SMS to organize, engage, and mobilize their communities, and how you can start coding and creating technologies to do just that.
 
 • **Allie Monck and Joyce Li** from the NYC Council Speakers office will talk about how Robo-texting enabled them to engage and scale their reach to New Yorkers.
 
-• **Fryda Guedes** will discuss how Peer-to-peer texting is used by the [Hispanic Federation](http://hispanicfederation.org/) to reachout to the communities they are supporting.
+• **Fryda Guedes** will discuss how Peer-to-peer texting is used by the [Hispanic Federation](http://hispanicfederation.org/) to reach out to new Americans they registered to vote.
 
 • **Josh Cohen** from Hero will discuss how texting was used to engage with Canadians and help the New Democratic Party of British Columbia get electoral victories.
 
 • **Greg Baugues** from [Twilio](//www.twilio.com) will live demo their platform so that you can start building your own texting application.
 
 • **Jon Warnow** from [Relay](//www.relaytxt.com) will discuss new ways organizers are using texting across the country.
-
 
 
 **Food** Food and drinks will be provided. We encourage attendees to bring their own water bottles to reduce waste.

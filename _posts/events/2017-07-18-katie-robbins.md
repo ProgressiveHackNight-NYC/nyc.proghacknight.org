@@ -17,8 +17,6 @@ asl_provided: false
 published: true
 ---
 
-<img src='/images/events/katie-robbins-event.jpg' width='100%'/>
-
 Katie Robbins, Executive Director of Physicians for a [National Health Program NY Metro Chapter](//pnhpnymetro.org), talked in front of a full house of organizers and technologists about healthcare and how we can – and why we should – work towards a single payer medicare-for-all system.
 
 [Check out the slides from her talk](https://www.dropbox.com/s/qqkosh9dmgmbt8c/Progressive%20Hacknight%20%E2%80%93%20Katie%20Robbins%20%E2%80%93%20UniversalHealthcare.pdf?dl=0) to see very informative charts and graphs on healthcare. And watch this amazing video on **Private Insurance Induced Stress Disorder**:
@@ -41,6 +39,8 @@ Organize to change what is politically possible.
 <hr />
 
 ## About the Speaker
+
+<img src='/images/events/katie-robbins-event.jpg' width='100%'/>
 
 Katie Robbins is the Executive Director of the [NY Metro Chapter](http://pnhpnymetro.org) [Physicians for National Healthcare Program](http://pnhp.org), a single issue organization advocating a universal, comprehensive single-payer national health program. PNHP has 20,000 members and 40 chapters across the United States.
 
