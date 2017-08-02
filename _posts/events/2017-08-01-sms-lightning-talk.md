@@ -9,6 +9,9 @@ speakers:
  - Sonya Reynolds, Data Director of NY Civic Engagement table
  - Joyce Li, NYC Council Public Technology
  - Allie Monck, NYC Council Public Technology
+ - Josh Cohen, Hero
+ - Greg Baugues, Twilio
+ - Jon Warnow, Relay
 image: /images/events/sms-lightning-talk.jpg
 date: 2017-08-01T18:30:00-05:00
 event_id: 10
