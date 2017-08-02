@@ -57,10 +57,9 @@ layout: default
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title"><b>Other Events</b></h3>
+    <h3 class="panel-title"><b>Civic Tech Events outside ProgressiveHacknight</b></h3>
   </div>
   <div class="panel-body">
-    <p>Events outside of ProgHacknight's bi-weekly meetups!</p>
 
     <div class='row'>
       {% for post in site.categories['satellite'] reversed limit:2 %}
@@ -72,7 +71,7 @@ layout: default
           {% if post.image %}
             <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
           {% endif %}
-          <strong>6pm, {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+          <strong>{{ post.date | date: "%A, %B %-d, %Y %I:%M %p" }}</strong>
           <h4 class='no-margin-top'>
             <a href="{{post.url}}">{{post.title}}</a>
           </h4>

@@ -12,6 +12,9 @@ speakers:
  - Josh Cohen, Hero
  - Greg Baugues, Twilio
  - Jon Warnow, Relay
+ - Matteo Bannerjee, Hustle
+ - Arianna Israel, Hustle
+ - Elizabeth Haines, CodeBlue, OpenProgress
 image: /images/events/sms-lightning-talk.jpg
 date: 2017-08-01T18:30:00-05:00
 event_id: 10
