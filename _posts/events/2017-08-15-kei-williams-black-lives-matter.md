@@ -14,7 +14,7 @@ youtube_id:
 agenda:  https://docs.google.com/document/d/1JG8Vm9P_u_giwF4A7rQ6vDmP-hYSzvEtKS7AA2uKp0Q/edit#
 sponsor:
 asl_provided: false
-published: false
+published: true
 ---
 
 On August 15 at 6:30p at ThoughtWorks ([map](https://goo.gl/maps/jDB4sE59mk92)), Kei Williams is a queer transmasculine identified community organizer with #BlackLivesMatter, NYC Chapter. They will talk about their work and story fighting for black lives and how technologists can support and amplify their efforts.

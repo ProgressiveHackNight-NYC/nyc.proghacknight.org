@@ -1,7 +1,7 @@
 ---
 layout: satellite_event
 categories:
-  - satellite
+  - other-events
 links:
 title: "ABA JusticeHack New York"
 description: "On Saturday, August 12, 2017, the ABA Coalition on Racial & Ethnic Justice (COREJ) will host a dynamic Hackathon titled “ABA JusticeHack New York” at Fordham University School of Law, Lincoln Center, NYC. This dynamic hackathon will bring together multidisciplinary teams of community, legal, law enforcement, criminal justice and technology stakeholders in a collaborative, engaging environment to develop innovative and technology-based solutions to address tension points between law enforcement and communities of color."
