@@ -96,8 +96,8 @@ a { text-decoration: none !important; }
 }
 
 .post, .post p, .post li {
-  font-size: 20px;
-  line-height: 1.55em;
+  font-size: 18px;
+  line-height: 1.75;
 }
 
 .post p {
@@ -234,4 +234,49 @@ margin-top: 15px;
 /** Team page */
 .team tr > td > img {
   width: 150px;
+}
+
+
+#primary-content .post .content-area h1 {
+  font-size: 39px;
+  font-weight: 600;
+  border-bottom: 2px solid black;
+  padding: 0 0 10px;
+  color: #555555;
+  margin-bottom: 30px;
+}
+
+#primary-content .post .content-area h2 {
+  font-weight: 600;
+  padding-bottom: 10px;
+  color: #555555;
+}
+
+#primary-content .post .content-area h3 {
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#primary-content .post .content-area h4 {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-bottom: 7px;
+  border-bottom: 2px solid;
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#primary-content .post .content-area h4::after {
+  content: ' ';
+  display: block;
+  clear: both;
+}
+
+#primary-content .post .content-area h5 {
+  ont-size: 16px;
+  text-transform: uppercase;
+  margin: 10px 0 10px;
+  font-weight: 800;
 }

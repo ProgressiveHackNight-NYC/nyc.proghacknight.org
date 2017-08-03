@@ -10,14 +10,12 @@ speakers:
 image:
 date: 2017-07-18T18:30:00-05:00
 event_id: 9
-youtube_id:
+youtube_id: LzeTmEmbb2M
 agenda: https://docs.google.com/document/d/1Lz4EF9pj1VDYpTdr-oR8LLQSnSZ2lD95wEvTTHpNJBE/edit
 sponsor:
 asl_provided: false
 published: true
 ---
-
-<img src='/images/events/katie-robbins-event.jpg' width='100%'/>
 
 Katie Robbins, Executive Director of Physicians for a [National Health Program NY Metro Chapter](//pnhpnymetro.org), talked in front of a full house of organizers and technologists about healthcare and how we can – and why we should – work towards a single payer medicare-for-all system.
 
@@ -41,6 +39,8 @@ Organize to change what is politically possible.
 <hr />
 
 ## About the Speaker
+
+<img src='/images/events/katie-robbins-event.jpg' width='100%'/>
 
 Katie Robbins is the Executive Director of the [NY Metro Chapter](http://pnhpnymetro.org) [Physicians for National Healthcare Program](http://pnhp.org), a single issue organization advocating a universal, comprehensive single-payer national health program. PNHP has 20,000 members and 40 chapters across the United States.
 

@@ -15,7 +15,7 @@ layout: default
     {% if site.time <= page.date %}
       <div class='col-sm-7'>
     {% else %}
-      <div class='col-sm-12'> 
+      <div class='col-sm-12'>
     {% endif %}
 
       {% if page.youtube_id %}
@@ -52,8 +52,8 @@ layout: default
           {% if page.image %}
             <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' /></p>
           {% endif %}
-         
-          6pm<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
+
+          {{ page.date | date: "%I:%M %p" }}<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <br />
             <span itemprop="name">{{page.address_name}}</span><br />
@@ -64,7 +64,7 @@ layout: default
               </div>
             </a>
           </div>
-          
+
         </div>
       </div>
     {% endif %}
