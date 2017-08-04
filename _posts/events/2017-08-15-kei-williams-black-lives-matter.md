@@ -6,7 +6,7 @@ links:
 title: "Kei Williams – #BlackLivesMatter"
 description: "Kei Williams is a queer transmasculine identified community organizer with #BlackLivesMatter, NYC Chapter. They will talk about their work and story fighting for black lives and how technologists can support and amplify their efforts."
 speakers:
- - Kei Williams, #BlackLivesMatter NYC Chapter
+ - Kei Williams, \#BlackLivesMatter NYC Chapter
 image: /images/events/kei-williams.jpg
 date: 2017-08-15T18:30:00-05:00
 event_id: 11
