@@ -4,14 +4,14 @@ categories:
   - events
 links:
 title: "Progressive PitchNight"
-description: "A lot has happened in the last ten months. I know a lot of attention has been focused on the recent 6 month milestone of the Trump administration in office, but for me, the real shift happened back in November. "
+description: "A lot has happened in the last ten months. I know a lot of attention has been focused on the recent 6 month milestone of the Trump administration in office, but for Julian, the real shift happened back in November. "
 speakers:
  - Hosted by Julian Rad
 image: /images/events/pitchnight.jpg
 date: 2017-08-29T18:30:00-05:00
 event_id: 12
 youtube_id:
-agenda:  https://docs.google.com/document/d/1JG8Vm9P_u_giwF4A7rQ6vDmP-hYSzvEtKS7AA2uKp0Q/edit#
+agenda:  https://docs.google.com/document/d/1Y9CdkNbD434ku_eoYOmxvRGn1WSLkXwYEVVBjHe8XrI/edit
 sponsor:
 asl_provided: false
 published: true
