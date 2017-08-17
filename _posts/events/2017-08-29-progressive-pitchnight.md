@@ -3,8 +3,8 @@ layout: event
 categories:
   - events
 links:
-title: "Progressive PitchNight"
-description: "A lot has happened in the last ten months. I know a lot of attention has been focused on the recent 6 month milestone of the Trump administration in office, but for Julian, the real shift happened back in November. "
+title: "Progressive <strike>Hack</strike>PitchNight"
+description: "This time we’re not featuring a speaker. This time we want to feature you! Two teams will pitch their projects to our amazing HackNight audience!"
 speakers:
  - Hosted by Julian Rad
 image: /images/events/pitchnight.jpg
