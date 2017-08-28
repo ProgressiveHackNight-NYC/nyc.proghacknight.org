@@ -12,7 +12,7 @@ date: 2017-08-29T18:30:00-05:00
 event_id: 12
 youtube_id:
 agenda:  https://docs.google.com/document/d/1Y9CdkNbD434ku_eoYOmxvRGn1WSLkXwYEVVBjHe8XrI/edit
-sponsor:
+sponsor: New York Progressive Action Network
 asl_provided: false
 published: true
 ---
@@ -40,6 +40,10 @@ At the end of this post, we’ve provided a questionnaire - please fill it out a
 Once we’ve reviewed your submission, we’ll be picking two projects per PitchNight to present. We’ll respond back to you with a  confirmation of receipt and then follow up with any additional questions as well as when we’ll be able to program your stand up.
 
 We can't wait to see what you've got working!
+
+### <i class="fa fa-cutlery fa-fw"></i> Food & Drinks sponsor: NYPAN
+
+We’re so excited to have [NYPAN](http://nypan.org/) sponsor the food for this hacknight! A state wide network of more than 25 affiliates. Focused on Progressive actions all throughout New York.
 
 
 <hr/>
