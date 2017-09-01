@@ -18,7 +18,7 @@ speakers:
 image: /images/events/sms-lightning-talk.jpg
 date: 2017-08-01T18:30:00-05:00
 event_id: 10
-youtube_id:
+youtube_id: 9XpWRBlK3aQ
 agenda:  https://docs.google.com/document/d/1c1Y1fMIv2lehisSHC8hZ7zZfgPG2cFxjTnY_UdgIjY0/edit#
 sponsor: RelayTxt.com
 asl_provided: false
