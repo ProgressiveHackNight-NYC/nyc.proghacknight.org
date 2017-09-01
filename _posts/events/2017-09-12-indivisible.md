@@ -22,7 +22,7 @@ Indivisible has engaged with techies and harnessed their energy to create applic
 
 The focus for this hacknight are the Indivisible groups in New York. We are excited to see you all!
 
-Civic and Progressive Hacking starts right after the speakers, which will end at around 7:30pm
+Civic and Progressive Hacking starts right after the speakers, the civic/progressive hacking will start at around 7:30pm
 
 <hr />
 
