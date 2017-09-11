@@ -7,6 +7,8 @@ title: "Progressive <strike>Hack</strike>PitchNight"
 description: "This time we’re not featuring a speaker. This time we want to feature you! Two teams will pitch their projects to our amazing HackNight audience!"
 speakers:
  - Hosted by Julian Rad
+ - Nancy de Delva, NY Progressive Action Network
+ - Gary Krane, WinWisely
 image: /images/events/pitchnight.jpg
 date: 2017-08-29T18:30:00-05:00
 event_id: 12

@@ -5,7 +5,12 @@ categories:
 links:
 title: "Indivisible New York"
 description: "We will have leaders from Indivisible groups in New York tell their stories, the actions they’re doing locally, and how technologists can help amplify the amazing work on the ground."
-speakers:
+speakers:  
+- Ginger Albertson, Indivisible BK
+- Josh Daniel - Indivisible Harlem
+- Josh Nussbaum - Indivisible Nat'l
+- Nicole Powell - NY Indivisible
+- Lisa Raymond-Tolan - Indivisible Nation BK
 image: /images/events/indivisible.png
 date: 2017-09-12T18:30:00-05:00
 event_id: 13
