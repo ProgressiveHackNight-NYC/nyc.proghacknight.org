@@ -83,8 +83,19 @@ a { text-decoration: none !important; }
   width: 50px;
 }
 
-.sponsors img {
-  padding: 10px 30px 10px 0;
+.sponsors p {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: gray;
+  font-size: 12px;
+  margin-top: 9px;
+  font-weight: bold;
+}
+.sponsors .sponsor {
+    text-align: center;
+}
+.sponsors .sponsor img {
+  width: 80%;
 }
 
 .label:hover { text-decoration: none; }
