@@ -9,8 +9,9 @@ image: /images/events/pitchnight.jpg
 date: 2017-10-08T18:30:00-05:00
 event_id: 13
 youtube_id:
-agenda:  https://docs.google.com/document/d/1Y9CdkNbD434ku_eoYOmxvRGn1WSLkXwYEVVBjHe8XrI/edit
+agenda:  https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-35597119944
 sponsor: New York Progressive Action Network
+rsvp: https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-35597119944
 asl_provided: false
 published: true
 ---
