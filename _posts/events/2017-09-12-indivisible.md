@@ -5,7 +5,7 @@ categories:
 links:
 title: "Indivisible New York"
 description: "We will have leaders from Indivisible groups in New York tell their stories, the actions they’re doing locally, and how technologists can help amplify the amazing work on the ground."
-speakers:  
+speakers:
 - Ginger Albertson, Indivisible BK
 - Josh Daniel - Indivisible Harlem
 - Josh Nussbaum - Indivisible Nat'l
