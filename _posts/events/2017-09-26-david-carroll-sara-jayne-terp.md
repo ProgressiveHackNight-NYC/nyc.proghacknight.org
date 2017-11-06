@@ -3,7 +3,7 @@ layout: event
 categories:
   - events
 links:
-title: "AdTech is a PsyOp" and "Belief, Persuasion, Lies and AI"
+title: '"AdTech is a PsyOp" and "Belief, Persuasion, Lies and AI"'
 description: "With the advent of data mining, artificial intelligence, and machine learning, we see the other side of technology. Our privacy and autonomy jeopardized by the very thing we use to empower our communities – technology."
 speakers:  
 - David Carroll

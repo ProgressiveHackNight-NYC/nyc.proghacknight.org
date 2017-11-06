@@ -5,9 +5,10 @@ categories:
 links:
 title: "Progressive HackNight"
 description: "Join the community for another night of civic hacking! We will meet on Tuesday for an evening focused on the amazing work of our breakout groups. After pizza, introductions and announcements, we’ll jump straight into our projects. Whether you are already collaborating with a group, or want to volunteer for something new, this is a great chance to use your skills and take meaningful action!"
+speakers:  
 image: /images/events/pitchnight.jpg
 date: 2017-10-10T18:30:00-05:00
-event_id: 14
+event_id: 15
 youtube_id:
 agenda:  https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-35597119944
 sponsor: New York Progressive Action Network
