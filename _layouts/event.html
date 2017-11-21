@@ -29,7 +29,11 @@ layout: default
       {% endif %}
 
       {% if site.time <= page.date %}
-        <p><a class='btn btn-success' href='https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-39425199834'><i class='fa fa-check-square-o'></i> RSVP</a></p>
+        {% if page.rsvp %}
+          <p><a class='btn btn-success' href='{{page.rsvp}}'><i class='fa fa-check-square-o'></i> RSVP</a></p>
+        {% else %}
+          <p><a class='btn btn-success' href='https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-39425199834'><i class='fa fa-check-square-o'></i> RSVP</a></p>
+        {% endif %}
       {% endif %}
 
       <span itemprop="description">{{content}}</span>
@@ -72,7 +76,7 @@ layout: default
             <p><img class='img-responsive img-thumbnail' src='{{page.image}}' alt='{{page.title}}' /></p>
           {% endif %}
 
-          6:30p<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
+          {{ page.date | date: "%l:%M %P" }}<br />{{ page.date | date: "%A, %B %-d, %Y" }}<br />
           <div itemprop="location" itemscope itemtype="http://schema.org/Place">
             <br />
             <span itemprop="name">ThoughtWorks NYC</span><br />
