@@ -10,7 +10,7 @@ speakers:
 image: /images/events/kei-williams.jpg
 date: 2017-08-15T18:30:00-05:00
 event_id: 11
-youtube_id:
+youtube_id: bYhj28Yo7fk
 agenda:  https://docs.google.com/document/d/1JG8Vm9P_u_giwF4A7rQ6vDmP-hYSzvEtKS7AA2uKp0Q/edit#
 sponsor:
 asl_provided: false

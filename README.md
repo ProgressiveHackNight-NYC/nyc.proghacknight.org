@@ -4,7 +4,7 @@ Website for [Progressive Hack Night](http://progressivehacknight.org/).
 
 *Forked from [Chi Hack Night](http://chihacknight.org)*
 
-### [RSVP](https://www.eventbrite.com/e/community-hack-night-at-thoughtworks-tickets-32507133712)
+### [RSVP](https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-39424865835)
 
 
 ## Running locally

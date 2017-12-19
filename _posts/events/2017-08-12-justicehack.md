@@ -16,7 +16,7 @@ address_name: Fordham University School of Law
 address_street: 150 West 62nd Street, Constantino Room, 2nd Floor
 address_city: New York, NY 10023
 asl_provided: false
-published: true
+published: false
 ---
 
 On Saturday, August 12, 2017, the ABA Coalition on Racial & Ethnic Justice (COREJ) will host a dynamic Hackathon titled “ABA JusticeHack New York” at Fordham University School of Law, Lincoln Center, NYC. This dynamic hackathon will bring together multidisciplinary teams of community, legal, law enforcement, criminal justice and technology stakeholders in a collaborative, engaging environment to develop innovative and technology-based solutions to address tension points between law enforcement and communities of color.

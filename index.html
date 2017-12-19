@@ -27,7 +27,7 @@ layout: default
   </div>
   <div class="panel-body">
     {% for post in site.categories['events'] limit:1 %}
-    <strong>6:30pm , {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+    <strong>{{ post.date | date: "%l:%M %P" }}, {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
 
     <h2 class='no-margin-top'>
       <small>#{{post.event_id}}</small>
@@ -40,7 +40,11 @@ layout: default
         {% endif %}
         <br />
         {% if site.time <= post.date %}
-          <a class='btn btn-success btn-lg' href="http://proghacknight.eventbrite.com/" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
+          {% if post.rsvp %}
+            <a class='btn btn-success btn-lg' href="{{post.rsvp}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
+          {% else %}
+            <a class='btn btn-success btn-lg' href="https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-39425199834" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
+          {% endif %}
         {% endif %}
         <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
         <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
@@ -143,7 +147,7 @@ layout: default
       <div class='col-sm-4'>
         <div class='well'>
           <h1><i class='fa fa-fw fa-calendar'></i></h1>
-          <p>1. Go to Progressive Hacknight. <a href='http://proghacknight.eventbrite.com/'>We meet every other Tuesday at 6:30pm</a></p>
+          <p>1. Go to Progressive Hacknight. <a href='https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-39424865835'>We meet every other Tuesday at 6:30pm</a></p>
         </div>
       </div>
 
@@ -165,11 +169,24 @@ layout: default
     <hr />
     <div class='sponsors'>
       <h2>Special Thanks to </h2>
-      <p align="center">
+      <div class='sponsor col-sm-12 col-md-4'>
         <a href="https://www.thoughtworks.com/locations/new-york">
           <img src="/images/thoughtworks.jpg" />
         </a>
-      </p>
+        <p align="center">Venue Partner</p>
+      </div>
+      <div class='sponsor col-sm-12 col-md-4'>
+        <a href="http://civichall.org/">
+          <img src="/images/sponsors/civichall.png" />
+        </a>
+        <p align="center">Amplifying Partner</p>
+      </div>
+      <div class='sponsor col-sm-12 col-md-4'>
+        <a href="https://www.meetup.com/Developers-for-Good/events/243214042/">
+          <img src="/images/sponsors/coders-for-good.jpeg" />
+        </a>
+        <p align="center">Amplifying Partner</p>
+      </div>
     </div>
   </div>
 </div>
