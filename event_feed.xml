@@ -5,8 +5,8 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Progressive Hacknight Events</title>
-    <description>Chicago's place to build, share, and learn about civic tech.</description>
-    <link>http://chihacknight.org/events.html</link>
+    <description></description>
+    <link>http://www.progressivehacknight.org/events.html</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.categories['events'] limit:10 %}
       <item>
