@@ -14,6 +14,8 @@ agenda:
 rsvp: https://www.eventbrite.com/e/voter-files-progressive-hacknight-jan-16-2018-tickets-42098229939?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button
 sponsor:
 asl_provided: false
+has_slides: true
+slidedeck_link: https://docs.google.com/presentation/d/14sMLH_OLFiywSICLB8kVuZIt4EPb9xh2ffUD2-Tq4gQ/edit?usp=sharing
 published: true
 ---
 
