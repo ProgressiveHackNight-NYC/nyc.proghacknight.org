@@ -58,6 +58,9 @@ layout: default
       {% if page.asl_provided %}
         <i class='fa fa-american-sign-language-interpreting fa-fw'></i> American Sign Language interpreter<br />
       {% endif %}
+      {% if page.has_slides %}
+        <i class='fa fa-file-text-o fa-fw'></i> <a href='{{page.slidedeck_link}}' target='_blank'>Slide Deck</a><br />
+      {% endif %}
 
       {% if page.links %}
         <hr />
