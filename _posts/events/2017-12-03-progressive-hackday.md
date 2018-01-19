@@ -19,7 +19,7 @@ published: true
 
 #### Bring your laptops!
 
-[Progressive HackNight](//www.progressievhacknight.org) is proud to invite you to our first ever HackDay
+[Progressive HackNight](//www.progressivehacknight.org) is proud to invite you to our first ever HackDay
 
 HackDay will be a day long hackathon featuring three projects selected to be easy to ramp up on covering a range of topics in the progressive space. Each project will have at least one representative from their team in attendance to lead their breakout group.
 
