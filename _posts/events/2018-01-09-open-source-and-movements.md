@@ -8,7 +8,7 @@ description: "Anyone using the Internet today benefits from open source software
 speakers:
 image: /images/events/jan-9.jpg
 date: 2018-01-09T18:30:00
-event_id: 19
+event_id: 20
 youtube_id:
 agenda:  https://docs.google.com/document/d/1YYKgG0AgZQ0eEDRECdQEAklLnPPaoAnULUIR3A8ZDaY/edit
 rsvp: https://www.eventbrite.com/e/open-source-and-movements-progressive-hacknight-jan-9-2018-tickets-41426021345?aff=erelexpmlt
