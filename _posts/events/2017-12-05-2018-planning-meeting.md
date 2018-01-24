@@ -8,7 +8,7 @@ description: "We are going to have a planning meeting to map out what’s going 
 speakers:
 image: /images/events/planning-meeting.jpg
 date: 2017-12-05T18:30:00
-event_id: 18
+event_id: 19
 youtube_id:
 agenda:  https://www.eventbrite.com/e/progressive-hacknight-2018-planning-meeting-tickets-40905570663
 rsvp: https://www.eventbrite.com/e/progressive-hacknight-2018-planning-meeting-tickets-40905570663

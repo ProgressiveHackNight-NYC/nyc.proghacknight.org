@@ -8,7 +8,7 @@ description: "Progressive HackNight is proud to invite you to our first ever Hac
 speakers:
 image: /images/events/hackday.png
 date: 2017-12-03T10:00:00
-event_id: 17
+event_id: 18
 youtube_id:
 agenda:  https://www.eventbrite.com/e/progressive-hackday-tickets-40110680124
 rsvp: https://www.eventbrite.com/e/progressive-hackday-tickets-40110680124
