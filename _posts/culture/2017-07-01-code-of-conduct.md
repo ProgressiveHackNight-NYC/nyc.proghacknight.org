@@ -13,7 +13,7 @@ image: /images/culture/code-of-conduct.png
 author: Ilona Brand
 author_url: https://www.linkedin.com/in/theilonabrand/
 author_image: /images/team/ilona.png
-author_bio: "Ilona is a member of the ProgHacknight Steering Committee"
+author_bio: "Ilona is a member of the progressivehacknight Steering Committee"
 author2:
 author2_url:
 author2_image:
@@ -22,10 +22,10 @@ redirect_from:
   - code-of-conduct.html
 ---
 
-<p class="text-center"><img src="/images/culture/code-of-conduct.png" alt="People at the 2nd ProgHacknight" class="img-thumbnail"/><br />
+<p class="text-center"><img src="/images/culture/code-of-conduct.png" alt="People at the 2nd progressivehacknight" class="img-thumbnail"/><br />
 
 <small>
-    <em>People at the 2nd ProgHacknight</em>
+    <em>People at the 2nd progressivehacknight</em>
 </small>
 </p>
 
@@ -33,79 +33,79 @@ redirect_from:
 # Code of Conduct
 The Progressive HackNight is dedicated to making great ideas happen. We embrace progressive ideals, and want our space to be safe, productive, and inspiring. We have put together these rules to ensure that our events and structures hold true to our progressive values.
 
-## Social Rules <sup>1</sup>
+# Social Rules <sup>1</sup>
 
-### No feigning surprise
+## No feigning surprise
 The first rule means you shouldn't act surprised when people say they don't know something. This applies to both technical things ("What?! I can't believe you don't know what the stack is!") and non-technical things ("You don't know who RMS is?!"). Similarly, this applies to acting surprised when someone does know something (“Oh wow! You’ve used React before?”).
 
-### No well-actually's
+## No well-actually's
 A well-actually happens when someone says something that's almost - but not entirely - correct, and you say, "well, actually…" and then give a minor correction. We want to promote an educational space and encourage people to feel comfortable learning from each other and teaching each other too. The behavior that we’re specifically addressing here is a correction that is used to assert knowledge or dominance in a situation.
 
-### No back-seat driving
+## No back-seat driving
 If you overhear people working through a problem, you shouldn't intermittently lob advice across the room. This can lead to the "too many cooks" problem, but more importantly, it can be rude and disruptive to half-participate in a conversation.
 
-### No subtle -isms
+## No subtle -isms
 Our last social rule bans subtle racism, sexism, homophobia, transphobia, and other kinds of bias. Subtle -isms are small things that make others feel unwelcome, things that we all sometimes do by mistake.
 
-### Harassment Policy <sup>2</sup>
-Progressive HackNight is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or anything else. We take this very seriously, and if you feel like you have been harassed at a Progressive HackNight event, we (the organizers) want you to feel empowered to talk to us about it.
+## Your safety is important to us
+Progressive HackNight is dedicated to providing a harassment-free experience for everyone: regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or anything else.
 
-You can pull any of us aside, email us as a group at steering@proghacknight.org, email us individually at our emails listed below, or DM us in the Progressive HackNight slack if you feel uncomfortable or unsafe at the event. Here’s what we look like and our respective emails and slack names to reach us:
+#### We take this very seriously.
 
+If you feel like there is a way we could improve our culture or you felt uncomfortable at a Progressive HackNight event, we (the organizers) want you to be empowered to talk to us about it.
+
+
+# The Organizers
 
 ![ilona](/images/team/ilona.png){: width="140px"}
 
-Ilona Brand, she/her
-ilona@proghacknight.org
-@ibrand
+##### Ilona Brand
+she/her <br/>
+ilona (at) progressivehacknight.org | @ibrand
 
 
 ![vesha](/images/team/vesha.png){: width="140px"}
 
-La Vesha Parker, she/her
-vesha@proghacknight.org
-@vesha
+##### La Vesha Parker
+she/her<br/>
+vesha (at) progressivehacknight.org | @vesha
 
 ![rapi](/images/team/rapi.png){: width="140px"}
 
-Rapi Castillo, he/him
-rapi@proghacknight.org
-@pikittakbo
-347-481-3036
+##### Rapi Castillo
+he/him<br/>
+rapi (at) progressivehacknight.org | @rapi
 
 ![annie](/images/team/annie.png){: width="140px"}
 
-Annie Hirshman, she/her
-annie@proghacknight.org
-@anniehirshman
-603-731-7923
+##### Annie Hirshman
+she/her<br/>
+annie (at) progressivehacknight.org | @anniehirshman
+
 
 ![sonya](/images/team/sonya.png){: width="140px"}
 
-Sonya Reynolds, she/her/hers
-sonya@proghacknight.org
-@sonyabear
-215-264-5968
+##### Sonya Reynolds
+she/her/hers<br/>
+sonya (at) progressivehacknight.org | @sonyabear
 
 ![tino](/images/team/tino.png){: width="140px"}
 
-Tino Bedi, He/him
-tino@proghacknight.org
-@tino
-212-960-3975
+##### Tino Bedi
+He/him<br/>
+tino (at) progressivehacknight.org | @tino
 
 ![julian](/images/team/julian.png){: width="140px"}
 
-Julian Rad, he/him
-julianrad@gmail.com
-@julianrad
-917.854.8368
+##### Julian Rad
+he/him<br/>
+julian (at) progressivehacknight.org | @julianrad
 
 ![alex](/images/team/alex.jpg){: width="140px"}
 
-Alex Burgos, he/him
+##### Alex Burgos
+he/him<br/>
+alex (at) progressivehacknight.org
 
 ---
 <sup>1</sup> The social rules are excerpts from the original social rules from the Recurse Center, where they help nurture a productive learning environment. The Recurse Center wrote an awesome blog post explaining their social rules, and we will be sure to announce these rules at the start of every HackNight.
-
-<sup>2</sup> The harassment policy is built from excerpts from the !!Con code of conduct. !!Con is a conference celebrating the joy excitement and surprise of computing.
