@@ -291,3 +291,16 @@ margin-top: 15px;
   margin: 10px 0 10px;
   font-weight: 800;
 }
+
+.project-filter {
+  background-color: white;
+  color: black;
+}
+
+.project-filter:hover {
+  color: black;
+}
+
+.project-filter:focus {
+  color: black;
+}
