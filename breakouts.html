@@ -45,7 +45,7 @@ description: Every week after the presentation, we break out into topic-specific
 <script>
 
   //grab issue list from GitHub
-  $.when( $.getJSON( "https://api.github.com/repos/ProgressiveHackNight/breakout-groups/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
+  $.when( $.getJSON( "https://api.github.com/repos/ProgressiveHackNight/project-ideas/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
 
     $.each(data, function(i, json){
       json['opened-on'] = moment(json['created_at']).fromNow();
