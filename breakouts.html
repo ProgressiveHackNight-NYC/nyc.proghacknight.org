@@ -17,79 +17,25 @@ description: Every week after the presentation, we break out into topic-specific
   <div class="well">
     <ol>
       <li>Create a GitHub account if you don't already have one: <a href='https://github.com/join' target='_blank'>https://github.com/join</a></li>
-      <li>Open a new GitHub Issue in this repository: <a href='https://github.com/ProgressiveHackNight/breakout-groups/issues/new' target='_blank'>https://github.com/ProgressiveHackNight/breakout-groups/issues/new</a></li>
+      <li>Open a new GitHub Issue in this repository: <a href='https://github.com/ProgressiveHackNight/project-ideas/issues/new' target='_blank'>https://github.com/ProgressiveHackNight/project-ideas/issues/new</a></li>
       <li>Set the title of your issue to the name of your breakout, and fill out the description template in the body. We will add the appropriate labels to it.</li>
     </ol>
   </div>
 </div>
 <br /><br />
 
-<h2 id='discussion'>Discussion Groups</h2>
-<p>New to Progressive Hacknight? Interested in learning what it's all about? Discuss progressive issues or brainstorm on an app idea? Join a discussion group!</p>
-
-<table id='discussion-groups' class='table table-bordered'>
-  <tbody>
-  </tbody>
-</table>
-
-<br />
 <h2 id='working'>Working Groups</h2>
+<strong>Filter Projects: </strong>
+<select class="selectpicker" data-live-search="true" multiple title="All" data-style="project-filter">
+  <optgroup label="Language">
+  </optgroup>
+</select>
 <p>These groups focus on building civic apps, doing research and pursuing ways of using technology to make New York a better place to live in. Groups can last for one night or several years - it's up to you!</p>
 
 <table id='working-groups' class='table table-bordered'>
   <tbody>
   </tbody>
 </table>
-
-{{raw}}
-<script>
-
-  //grab issue list from GitHub
-  $.when( $.getJSON( "https://api.github.com/repos/ProgressiveHackNight/breakout-groups/issues?state=open&direction=asc" ) ).then(function( data, textStatus, jqXHR ) {
-
-    $.each(data, function(i, json){
-      json['opened-on'] = moment(json['created_at']).fromNow();
-      var labels = '';
-      var is_discussion_group = false;
-      $.each(json['labels'], function(i, label){
-        if (label['name'] == 'Discussion group')
-          is_discussion_group = true;
-
-        labels += "<span class='label label-info' style='background-color:#" + label['color'] + "'>" + label['name'] + "</span> ";
-        });
-
-      var html = "\
-      <tr>\
-        <td>\
-          <h4><strong><a href='" + json['html_url'] + "' target='_blank'>" + json['title'] + "</a></strong> " + labels + "</h4>\
-          <p>Started " + json['opened-on'] + " by <a href='" + json['user']['html_url'] + "' target='_blank'>" + json['user']['login'] + "</a></p>\
-        </td>\
-      </tr>\
-      ";
-
-      if (is_discussion_group)
-        $("#discussion-groups tbody").append(html);
-      else
-        $("#working-groups tbody").append(html);
-    });
-  });
-
-
-  // // initialize datatables
-  // $('#working_table').dataTable( {
-  //     "aaSorting": [ [0,'asc'], [1, 'asc'] ],
-  //     "aoColumns": [
-  //         null,
-  //         null,
-  //         null,
-  //         null
-  //     ],
-  //     "bInfo": false,
-  //     "bPaginate": false,
-  //     "bFilter": false
-  // });
-</script>
-{{endraw}}
 
 <button class="btn btn-danger" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
   <i class='fa fa-question-circle'></i> I made a group but don't see it listed!
@@ -108,3 +54,5 @@ description: Every week after the presentation, we break out into topic-specific
     </ol>
   </div>
 </div>
+
+<script src="/lib/breakouts.js"></script>

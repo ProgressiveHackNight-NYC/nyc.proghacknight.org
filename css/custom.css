@@ -53,6 +53,18 @@ a { text-decoration: none !important; }
   border-color: #980c12;
 }
 
+a.btn.btn-danger {
+  color: #ffffff;
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+}
+
+a.btn.btn-danger:hover {
+  color: #ffffff;
+  background-color: #e74c3c;
+  border-color: #e74c3c;
+}
+
 .author-headshot {
   width: 100px;
   margin-top: 18px;
@@ -290,4 +302,17 @@ margin-top: 15px;
   text-transform: uppercase;
   margin: 10px 0 10px;
   font-weight: 800;
+}
+
+.project-filter {
+  background-color: white;
+  color: black;
+}
+
+.project-filter:hover {
+  color: black;
+}
+
+.project-filter:focus {
+  color: black;
 }
