@@ -49,6 +49,13 @@ We are a progressive hack night, but there is a difference between discussing an
 ### 5. Be clear about the type of talk you plan to give
 Will this be a crowd-sourced discussion? Or perhaps a more formal talk? We can accommodate many different types of talks, but want to set expectations with attendees and let them know what to expect ahead of time.
 
+### 6. No partisan language or positions on who should win an election
+Progressive HackNight is a non-partisan, non-profit organization, and we cannot support partisan language. Here’s what you can do during your talk:
+
+- criticize or praise sitting public officials, including the President, for actions that they take while in office.
+- take a position on issues, such as environment, refugees, or school reform.
+- take a position on specific government actions, including Executive Orders, and proposed laws and regulations.
+
 ## Process
 
 ### 1 week before talk
