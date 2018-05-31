@@ -11,7 +11,7 @@ date: 2018-06-05T18:30:00
 event_id: 31
 youtube_id:
 agenda: https://github.com/ProgressiveHackNight/project-ideas
-rsvp:
+rsvp: https://www.eventbrite.com/e/lgbtq-hacknight-what-does-a-post-gay-marriage-policy-look-like-tickets-46579365135
 sponsor:
 asl_provided: false
 has_slides: false
