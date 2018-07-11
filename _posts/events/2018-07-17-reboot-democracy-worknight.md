@@ -7,8 +7,8 @@ title: "Progressive HackNight"
 description: "Join the community for a night of teaming up with Reboot Democracy full of project pitches and advice, and speakers! Whether you are already collaborating with a group, or want to volunteer for something new, this is a great chance to use your skills and take meaningful action!"
 speakers:  
 image: /images/events/pitchnight.jpg
-date: 2017-07-17T18:00:00-05:00
-event_id: 15
+date: 2018-07-17T18:00:00-05:00
+event_id: 32
 youtube_id:
 agenda:  https://www.eventbrite.com/e/717-progressive-worknight-x-reboot-democracy-tickets-47959359736
 sponsor:
