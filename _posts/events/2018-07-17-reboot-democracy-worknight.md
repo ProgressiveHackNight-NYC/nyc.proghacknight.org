@@ -39,9 +39,3 @@ Progressive HackNight is teaming up with [Reboot Democracy](www.rebootdem.com) t
 **9:10 - 10:00:** General networking/schmoozing/noshing
 
 If you want to bring your project remember to fill out a [GitHub issue in our Project Ideas repo!](https://github.com/ProgressiveHackNight/project-ideas)
-
-
-
-<hr/>
-
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrqfzxfBpxgQZTfD?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1960" style="background: transparent; border: 1px solid #ccc;"></iframe>
