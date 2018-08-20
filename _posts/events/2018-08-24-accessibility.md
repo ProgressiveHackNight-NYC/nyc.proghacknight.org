@@ -32,12 +32,14 @@ Whether you’re an accessibility expert or this is all totally new to you, join
 
 ----
 
-**6:15 - 6:35:** Registration / Check-in / Happy Hour
+6:30p - 6:50p : registration, networking (mingle!)
 
-**6:35 - 6:45:** Introductions / Announcements
+6:50p - 7:10p : announcements, introductions
 
-**6:45 - 7:15:** Dispatches from the grassroots - Ocasio 2018
+7:10p - 7:30p : Speaker
 
-**7:15 - 9:30:** Breakout
+7:30 - 7:40p : Breakout introduction
+
+7:40p - 9:30p : Breakout
 
 If you want to bring your project remember to fill out a [GitHub issue in our Project Ideas repo!](https://github.com/ProgressiveHackNight/project-ideas)
