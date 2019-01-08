@@ -7,8 +7,8 @@ title: "Climate Crisis"
 description: "There’s no sugarcoating it: if there are no aggressive climate policy change in the immediate future, we will see the end of humanity as we know it."
 speakers: TBA
 image: /images/events/climate.jpg
-date: 2018-12-04T18:30:00
-event_id: 41
+date: 2019-01-15T18:30:00
+event_id: 42
 youtube_id:
 agenda: https://github.com/ProgressiveHackNight/project-ideas
 rsvp: https://www.eventbrite.com/e/hacknight-42-climate-crisis-tickets-54609843512
