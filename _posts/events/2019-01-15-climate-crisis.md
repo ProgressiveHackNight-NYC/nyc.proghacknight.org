@@ -10,7 +10,7 @@ image: /images/events/climate.jpg
 date: 2019-01-15T18:30:00
 event_id: 42
 youtube_id:
-agenda: https://github.com/ProgressiveHackNight/project-ideas
+agenda: https://docs.google.com/document/d/1Y5HvfibWG8QpaAz0iLud4kGy6iS6yof5rYq_Txnzgh0/edit
 rsvp: https://www.eventbrite.com/e/hacknight-42-climate-crisis-tickets-54609843512
 sponsor:
 asl_provided: false
