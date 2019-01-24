@@ -19,7 +19,7 @@ slidedeck_link:
 published: true
 ---
 
-Last week, we had a huge gathering of tech workers discussing climate change: how organizations are demonstrating on the streets, and lobbying for legislation that will solve the climate crisis that we are currently in. [The Climate Mobilization](https://www.theclimatemobilization.org), [Extinction Rebellion](https://xrebellion.org/nyc), [Sunrise Movement](https://sunrisemovement.org), and [Justice Democrats](https://justicedemocrats.com) are all working towards a clear path to combat the climate crisis we're facing.
+On January 15, we had a huge gathering of tech workers discussing climate change: how organizations are demonstrating on the streets, and lobbying for legislation that will solve the climate crisis that we are currently in. [The Climate Mobilization](https://www.theclimatemobilization.org), [Extinction Rebellion](https://xrebellion.org/nyc), [Sunrise Movement](https://sunrisemovement.org), and [Justice Democrats](https://justicedemocrats.com) are all working towards a clear path to combat the climate crisis we're facing.
 
 As tech workers, we have got to support the important work being done to fix the climate crisis. Here are things you can do right now:
 
