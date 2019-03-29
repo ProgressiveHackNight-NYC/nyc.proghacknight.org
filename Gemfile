@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.4'
+ruby '2.3.7'
 gem 'bundler'
 gem 'jekyll', '3.3.0'
 gem 'jekyll-redirect-from', '0.11'
