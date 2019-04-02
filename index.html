@@ -44,41 +44,6 @@ layout: default
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title"><b>Civic Tech Events outside ProgressiveHacknight</b></h3>
-  </div>
-  <div class="panel-body">
-
-    <div class='row'>
-      {% for post in site.categories['other-events'] reversed limit:2 %}
-        {% if forloop.last %}
-          <div class='col-sm-5 col-sm-offset-1'>
-        {% else %}
-          <div class='col-sm-5'>
-        {% endif %}
-          {% if post.image %}
-            <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
-          {% endif %}
-          <strong>{{ post.date | date: "%A, %B %-d, %Y %I:%M %p" }}</strong>
-          <h4 class='no-margin-top'>
-            <a href="{{post.url}}">{{post.title}}</a>
-          </h4>
-          {% if post.description %}
-            <p>{{ post.description }}</p>
-          {% endif %}
-          <br />
-          {% if site.time <= post.date %}
-            <a class='btn btn-success' href="{{post.rsvp}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
-          {% endif %}
-          <a class='btn btn-link' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
-          <a class='btn btn-link' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
-<div class="panel panel-default">
-  <div class="panel-heading">
     <h3 class="panel-title"><b>Latest blog post</b> <a class='pull-right' href='/blog/'>All posts &raquo;</a></h3>
   </div>
   <div class="panel-body">
