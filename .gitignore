@@ -3,4 +3,5 @@ _site
 s3_website.yml
 .ruby-version
 Gemfile.lock
+.idea/
 

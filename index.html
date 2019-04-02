@@ -10,52 +10,35 @@ layout: default
   </div>
 </div>
 
-<!-- <div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title"><b>Next Progressive Hacknight</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
-  </div>
-  <div class="panel-body">
-    <h2><i class='fa fa-snowflake-o'></i> Happy holidays! See you in 2017! <i class='fa fa-snowflake-o'></i></h2>
-    <p>We're taking the last two weeks of the year off due to the holidays. We’ll be back again on <strong>January 3rd, 2017</strong> with more civic hacking fun!</p>
-  </div>
-</div> -->
-
-
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h3 class="panel-title"><b>Next Progressive Hacknight</b> <a class='pull-right' href='/events/'>Past events &raquo;</a></h3>
+    <h3 class="panel-title"><b>Next Progressive Hacknight</b></h3>
   </div>
   <div class="panel-body">
-    {% for post in site.categories['events'] limit:1 %}
-    <strong>{{ post.date | date: "%l:%M %P" }}, {{ post.date | date: "%A, %B %-d, %Y" }}</strong>
+    <strong id="eventbrite-event-date">
+      <!-- EventBrite API fills this in -->
+    </strong>
 
-    <h2 class='no-margin-top'>
-      <small>#{{post.event_id}}</small>
-      <a href="{{post.url}}">{{post.title}}</a>
+    <h2 class='no-margin-top' id="eventbrite-event-title">
+      <!-- EventBrite API fills this in -->
     </h2>
     <div class='row'>
-      <div class='col-sm-7'>
-        {% if post.description %}
-          <p>{{ post.description }}</p>
-        {% endif %}
+      <div class='col-sm-12'>
+          <span id="eventbrite-event-summary">
+            <!-- EventBrite API fills this in -->
+          </span>
+          <div id="eventbrite-event-desc">
+            <!-- EventBrite API fills this in -->
+          </div>
+          <button id="read-more">Read More</button>
         <br />
-        {% if site.time <= post.date %}
-          {% if post.rsvp %}
-            <a class='btn btn-success btn-lg' href="{{post.rsvp}}" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
-          {% else %}
-            <a class='btn btn-success btn-lg' href="https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-39425199834" target='_blank'><i class='fa fa-check-square-o'></i> RSVP</a>
-          {% endif %}
-        {% endif %}
-        <a class='btn btn-link btn-lg' href="{{post.url}}"><i class='fa fa-info-circle-square-o'></i> Details</a>
-        <a class='btn btn-link btn-lg' href="{{post.agenda}}" target='_blank'><i class='fa fa-file-text-o'></i> Agenda</a>
+        <button class='btn btn-success btn-lg' id="eventbrite-widget-modal-trigger" type="button">RSVP</button>
       </div>
-      <div class='col-sm-5'>
-        {% if post.image %}
-          <a href="{{post.url}}"><img class='img-responsive img-thumbnail' src='{{post.image}}' alt='{{post.title}}' /></a>
-        {% endif %}
-      </div>
+      <!--<div class='col-sm-5'>-->
+        <!-- When this is done, reformat the colunns here -->
+        <!--&lt;!&ndash; TODO: EventBrite API will fill in an image &ndash;&gt;-->
+      <!--</div>-->
     </div>
-      {% endfor %}
   </div>
 </div>
 
@@ -190,3 +173,6 @@ layout: default
     </div>
   </div>
 </div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script src="/lib/eventbriteIntegration.js"></script>
