@@ -316,3 +316,19 @@ margin-top: 15px;
 .project-filter:focus {
   color: black;
 }
+
+#eventbrite-event-desc {
+  display: none;
+}
+
+#read-more {
+  background:none!important;
+  color:inherit;
+  border:none;
+  padding:0!important;
+  margin: 10px 0px;
+  font: inherit;
+  border-bottom:1px solid #444;
+  cursor: pointer;
+  margin-left: 5px;
+}
