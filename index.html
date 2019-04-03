@@ -4,8 +4,10 @@ layout: default
 
 <div class='row'>
   <div class='col-sm-12'>
-    <p class='h2'>We’re all about making great ideas happen.</p>
-    <p class='h4'><strong>Progressive HackNight</strong> is a bi-weekly gathering of coders and creatives, makers and doers, to foment and inspire action. We use our collective talents and abilities to push forward  pro-social change in benefit of the common good.</p>
+    <p class='h2'>Progressive HackNight mobilizes tech workers for progressive causes.</p>
+    <p class='h4'>At Progressive HackNight, we design, plan, and organize around technology that addresses inequity and promotes a society that works for all. We take a strong stance that technology that breeds injustice and oppression should be dismantled. <br/><br/>
+      Our bi-weekly hacknights, open- source projects, and issue-based campaigns educate and empower advocates and tech workers to create progressive change.  <a href="about.html">More about us</a>
+    </p>
     <br />
   </div>
 </div>
@@ -30,7 +32,7 @@ layout: default
           <div id="eventbrite-event-desc">
             <!-- EventBrite API fills this in -->
           </div>
-          <button id="read-more">Read More</button>
+          <button class="btn-link" id="read-more">Read More</button>
         <br />
         <button class='btn btn-success btn-lg' id="eventbrite-widget-modal-trigger" type="button">RSVP</button>
       </div>
@@ -42,74 +44,39 @@ layout: default
   </div>
 </div>
 
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title"><b>Latest blog post</b> <a class='pull-right' href='/blog/'>All posts &raquo;</a></h3>
-  </div>
-  <div class="panel-body">
-    {% for post in site.categories['blog'] limit:1 %}
-      <div class='row'>
-        <div class='col-sm-4'>
-          {% if post.image %}
-            <img class='img-thumbnail img-responsive' src='{{post.image}}' alt='{{ post.title }}' />
-          {% else %}
-            <img class='img-thumbnail img-responsive' src='/images/logo/logo.png' alt='{{ post.title }}' />
-          {% endif %}
-        </div>
-        <div class='col-sm-8'>
-          <h4>
-            <a href='{{post.url}}'>{{ post.title }}</a>
-          </h4>
-          <p>
-            <small>{{ post.date | date: "%b %-d, %Y" }} by
-              <a class='muted' href='{{post.author_url}}'>{{post.author}}</a>
-              {% if post.author2 %}
-                , <a class='muted' href='{{post.author2_url}}'>{{post.author2}}</a>
-              {% endif %}
-            </small>
-            <br />
-            {{ post.description | markdownify }} <a href='{{post.url}}'>Read&nbsp;more&nbsp;&raquo;</a>
-          </p>
-          <br />
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-</div>
-
 <div class='row'>
   <div class='col-sm-12'>
 
-    <h2 id='about'>Welcome!</h2>
+    <h2 id='about'>About Progressive HackNight</h2>
 
-    <p>Join us every other Tuesday from 6:30-9:30p on the 15th floor of ThoughtWorks NYC to hear from <a href='/events/index.html'>amazing speakers</a>, <a href='/breakouts.html#discussion'>discuss progressive issues</a> and <a href='/breakouts.html#working'>work on civic projects</a>. <a href='/about.html#everyone'><strong>Everyone is welcome!</strong></a></p>
-
-    <p>Progressive HackNight is a bi-weekly gathering of coders and creatives, makers and doers, to foment and inspire action as well as use our collective talents and abilities to push forward progressive agendas and pro-social change in benefit of the common good. <a href='/about.html'>More about us »</a></p>
+    <p>Join us every other Tuesday from 6:30 to 9:30 pm on the 15th floor of ThoughtWorks NYC to hear from <a href='/events/index.html'>amazing speakers</a>, discuss progressive issues and <a href='/breakouts.html'>work on grassroots projects</a>. <a href='/about.html#everyone'><strong>Everyone is welcome!</strong></a></p>
+    <p>Progressive HackNight creates a space for tech workers to build technology and relationships.</p>
+    <p>At each HackNight, learning groups meet to discuss and strategize about important issues, and working groups provide opportunities for our members to use their skills to create a positive impact. Through our learning groups and working groups, we create networks inside and outside our organizations.</p>
 
     <hr />
     <h2 id='community'>Join our community</h2>
 
-    <p>Progressive Hacknight is a hub for <a href='/community.html'>New York's progressive tech community</a>. Here's the three best ways to get involved:</p>
+    <p>Progressive Hacknight is a hub for New York's progressive tech community. Here are the three best ways to get involved:</p>
 
     <div class='row text-center'>
       <div class='col-sm-4'>
         <div class='well'>
           <h1><i class='fa fa-fw fa-calendar'></i></h1>
-          <p>1. Go to Progressive Hacknight. <a href='https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-39424865835'>We meet every other Tuesday at 6:30pm</a></p>
+          <p>1. Come to Progressive Hacknight! <a href='https://www.eventbrite.com/e/progressive-hacknight-at-thoughtworks-tickets-39424865835'>We meet every other Tuesday at 6:30pm</a></p>
         </div>
       </div>
 
       <div class='col-sm-4'>
         <div class='well'>
           <h1><i class='fa fa-fw fa-envelope'></i></h1>
-          <p>2. <a href='http://eepurl.com/cURxmP'>Subscribe to updates</a> on upcoming speakers and events</p>
+          <p>2. <button class="btn-link" id="open-popup" onclick="showMailchimpSubscribePopUp()">Subscribe to updates</button> on upcoming speakers and events</p>
         </div>
       </div>
 
       <div class='col-sm-4'>
         <div class='well'>
           <h1><i class='fa fa-fw fa-group'></i></h1>
-          <p>3. Browse our <a href='/breakouts.html'>breakouts</a> to find your group</p>
+          <p>3. Browse our <a href='/breakouts.html'>breakout groups</a> to get involved</p>
         </div>
       </div>
     </div>
@@ -139,5 +106,7 @@ layout: default
   </div>
 </div>
 
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script>
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+<script src="/lib/mailchimpModalIntegration.js"></script>
 <script src="/lib/eventbriteIntegration.js"></script>

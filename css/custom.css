@@ -36,7 +36,14 @@ a { text-decoration: none !important; }
 .img-home-teaser { margin-top: 60px;}
 
 .btn-link {
-  color: #E7121C;
+  background:none!important;
+  color:inherit;
+  border:none;
+  padding:0!important;
+  margin: 10px 0px;
+  font: inherit;
+  cursor: pointer;
+  color: #4F7CAD;
 }
 
 .btn-link:hover {
@@ -322,13 +329,5 @@ margin-top: 15px;
 }
 
 #read-more {
-  background:none!important;
-  color:inherit;
-  border:none;
-  padding:0!important;
-  margin: 10px 0px;
-  font: inherit;
-  border-bottom:1px solid #444;
-  cursor: pointer;
   margin-left: 5px;
 }
