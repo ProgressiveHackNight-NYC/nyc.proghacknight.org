@@ -6,14 +6,14 @@ tags:
   - culture
 team: community
 title: "Code of Conduct"
-description: "The Progressive HackNight is dedicated to making great ideas happen. We embrace progressive ideals, and want our space to be safe, productive, and inspiring. We have put together these rules to ensure that our events and structures hold true to our progressive values.
+description: "We want our space to be safe, productive, and inspiring. Our rules ensure that our events and structures hold true to our progressive values.
 "
 date: 2017-07-01
 image: /images/culture/code-of-conduct.png
 author: Ilona Brand
 author_url: https://www.linkedin.com/in/theilonabrand/
 author_image: /images/team/ilona.png
-author_bio: "Ilona is a member of the progressivehacknight Steering Committee"
+author_bio: "Ilona is a member of the Progressive HackNight team"
 author2:
 author2_url:
 author2_image:
@@ -55,13 +55,13 @@ Progressive HackNight is dedicated to providing a harassment-free experience for
 If you feel like there is a way we could improve our culture or you felt uncomfortable at a Progressive HackNight event, we (the organizers) want you to be empowered to talk to us about it.
 
 
-# The Organizers
+# The Team
 
 ![ilona](/images/team/ilona.png){: width="140px"}
 
 ##### Ilona Brand
-she/her <br/>
-ilona (at) progressivehacknight.org | @ibrand
+she/they <br/>
+ilona (at) progressivehacknight.org | @ilona
 
 
 ![vesha](/images/team/vesha.png){: width="140px"}
@@ -89,23 +89,5 @@ annie (at) progressivehacknight.org | @anniehirshman
 she/her/hers<br/>
 sonya (at) progressivehacknight.org | @sonyabear
 
-![tino](/images/team/tino.png){: width="140px"}
-
-##### Tino Bedi
-He/him<br/>
-tino (at) progressivehacknight.org | @tino
-
-![julian](/images/team/julian.png){: width="140px"}
-
-##### Julian Rad
-he/him<br/>
-julian (at) progressivehacknight.org | @julianrad
-
-![alex](/images/team/alex.jpg){: width="140px"}
-
-##### Alex Burgos
-he/him<br/>
-alex (at) progressivehacknight.org
-
 ---
-<sup>1</sup> The social rules are excerpts from the original social rules from the Recurse Center, where they help nurture a productive learning environment. The Recurse Center wrote an awesome blog post explaining their social rules, and we will be sure to announce these rules at the start of every HackNight.
+<sup>1</sup> The social rules are excerpts from the original social rules from the [Recurse Center](https://www.recurse.com/code-of-conduct), where they help nurture a productive learning environment. The Recurse Center has written a [great explanation of why they have a code of conduct](https://www.recurse.com/code-of-conduct), and we will be sure to announce these rules at the start of every HackNight.

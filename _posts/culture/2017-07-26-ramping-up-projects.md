@@ -6,13 +6,13 @@ tags:
   - culture
 team: community
 title: "How to get your project rolling at Progressive HackNight"
-description: "Progressive HackNight exists to make great ideas happen. Sometimes, we see some great ideas proposed at the start of the hacknight, but not many people work on them or stay involved after the night. This can be caused by a multitude of things, but we can reduce the chance of it happening by taking a look at how you can best set yourself up for success, no matter what stage your project is in."
+description: "Progressive HackNight exists to make great ideas happen. We have some tips on how you can best set yourself up for success, no matter what stage your project is in."
 date: 2017-07-05
 image: /images/culture/community.png
 author: La Vesha Parker
 author_url: https://www.linkedin.com/in/laveshaparker/
 author_image: /images/team/vesha.png
-author_bio: "Vesha is a member of the ProgHacknight Steering Committee"
+author_bio: "Vesha is a member of the Progressive HackNight team"
 author2:
 author2_url:
 author2_image:

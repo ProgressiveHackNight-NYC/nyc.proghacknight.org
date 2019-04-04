@@ -2,12 +2,12 @@
 layout: default
 title: Culture
 redirect_from: culture/index.html
-description: "All the things you need to get started with hacknight!"
+description: "All the things you need to get started with HackNight!"
 ---
 
 <h1><i class='fa fa-thumbs-up'></i> Progressive Hacknight Culture</h1>
 
-<p>We value inclusivity and safe space for ideas. The following posts make up the ProgHacknight DNA.</p>
+<p>We value inclusivity and a safe space for ideas. Learn more about the culture and community at the center of our work:</p>
 
 <p></p>
 
@@ -29,12 +29,6 @@ description: "All the things you need to get started with hacknight!"
           {% for t in post.tags %}
             {{ t }}{% unless forloop.last %}, {% endunless %}
           {% endfor %}
-          </small>
-          <!-- <br /><small><strong>Team</strong>:
-          {% for c in post.creators %}
-            {{ c }}{% unless forloop.last %}, {% endunless %}
-          {% endfor %}
-          </small> -->
         </h4>
         <p>{{post.description | markdownify}}</p>
       </div>

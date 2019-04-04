@@ -12,7 +12,7 @@ image: /images/culture/2017-05-20-lizbarry-speech.png
 author: La Vesha Parker
 author_url: https://www.linkedin.com/in/laveshaparker/
 author_image: /images/team/vesha.png
-author_bio: "Vesha is a member of the ProgHacknight Steering Committee"
+author_bio: "Vesha is a member of the Progressive HackNight team"
 author2:
 author2_url:
 author2_image:
