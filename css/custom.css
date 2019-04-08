@@ -4,6 +4,11 @@ body {
   font-size: 18px;
 }
 
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .navbar { min-height: 90px; }
 
 .navbar-brand img { height: 40px; }
@@ -330,4 +335,8 @@ margin-top: 15px;
 
 #read-more {
   margin-left: 5px;
+}
+
+.team-member {
+  padding-right: 25px;
 }

@@ -37,7 +37,7 @@ We've added new features to this website. Including:
 
 * **Project Pages.** we are now featuring the projects being developed in ProgHacknight! We want to feature and honor the awesome work of our participants and provide them the spotlight they deserve! [Checkout the project page here](/projects).
 
-* **Steering committee.** Get to know the people behind the event! Checkout the [team bio here](/steering-committee.html).
+* **Steering committee.** Get to know the people behind the event! Checkout the [team bio here](/team.html).
 
 ## Huge thanks to [ChiHacknight](//www.chihacknight.org)
 
