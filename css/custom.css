@@ -340,3 +340,7 @@ margin-top: 15px;
 .team-member {
   padding-right: 25px;
 }
+
+.hide-by-default {
+  display: none;
+}
